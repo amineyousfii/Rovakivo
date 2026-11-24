@@ -1,0 +1,5 @@
+# .gitattributes: how Git treats files.
+# Keep Linux-style line endings (LF) in every text file, on every computer. Web servers run Linux, and
+# it stops Git on Windows from converting files to CRLF (the "LF will be replaced by CRLF" warnings).
+# Git detects binary files (images, fonts) automatically and leaves them untouched.
+* text=auto eol=lf
