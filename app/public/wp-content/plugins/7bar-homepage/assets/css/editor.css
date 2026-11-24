@@ -1,0 +1,73 @@
+/* Page editor only: small adjustments so the canvas matches the website. Loaded after site.css. */
+
+.editor-styles-wrapper { background: var(--white); color: var(--ink); font-family: var(--font-body); }
+.editor-styles-wrapper .is-root-container,
+.editor-styles-wrapper .is-root-container.has-global-padding { padding-left: 0; padding-right: 0; }
+
+/* Site header and footer preview around the content (read-only; see assets/js/editor-chrome.js) */
+.editor-styles-wrapper .bar7-editor-chrome { position: relative; pointer-events: none; user-select: none; }
+.editor-styles-wrapper .bar7-editor-chrome .bar7-header { position: relative; top: auto; }
+.editor-styles-wrapper .bar7-editor-chrome [data-reveal-item],
+.editor-styles-wrapper .bar7-editor-chrome [data-reveal-group] { opacity: 1 !important; }
+.editor-styles-wrapper .bar7-editor-chrome__label {
+	position: absolute; z-index: 60; right: 12px; top: 8px; padding: 3px 8px;
+	font: 600 11px/1.4 var(--font-body); letter-spacing: .02em; color: #3c3c3a;
+	background: rgba(255, 255, 255, .92); border: 1px dashed #9a9a94; border-radius: 999px;
+}
+.editor-styles-wrapper .bar7-editor-chrome--top .bar7-editor-chrome__label { top: auto; bottom: -11px; right: auto; left: 50%; transform: translateX(-50%); }
+.editor-styles-wrapper .bar7-editor-chrome--bottom .bar7-editor-chrome__label { top: 12px; }
+
+/* Page title field above the content */
+.editor-styles-wrapper .editor-post-title { max-width: calc(var(--wrap) + var(--gutter) * 2); margin: 0 auto; padding: 24px var(--gutter) 8px; font-family: var(--font-head); font-weight: 800; font-size: 20px; letter-spacing: -.02em; color: var(--muted); }
+
+/* Site buttons (the website outputs the storefront's own button markup for these) */
+.editor-styles-wrapper .wp-block-buttons.bar7-cta__actions { display: flex; flex-wrap: wrap; align-items: center; gap: 20px 32px; }
+.editor-styles-wrapper .wp-block-buttons.bar7-hero__actions { display: flex; flex-wrap: wrap; align-items: center; }
+.editor-styles-wrapper .wp-block-buttons.is-unwrapped { display: flex; }
+.editor-styles-wrapper [class*="bar7-button--"] .wp-block-button__link { display: inline-flex; align-items: center; justify-content: center; gap: 14px; font-family: var(--font-body); font-size: 14px; font-weight: 600; line-height: 1; text-decoration: none; box-shadow: none; }
+.editor-styles-wrapper :is(.bar7-button--yellow, .bar7-button--dark, .bar7-button--outline) .wp-block-button__link { min-height: 48px; padding: 0 22px; border: 1.5px solid transparent; border-radius: var(--radius); }
+.editor-styles-wrapper .bar7-button--yellow .wp-block-button__link { background: var(--yellow); color: var(--ink); }
+.editor-styles-wrapper .bar7-button--dark .wp-block-button__link { background: var(--ink); color: var(--white); }
+.editor-styles-wrapper .bar7-button--outline .wp-block-button__link { background: var(--white); color: var(--ink); border-color: var(--ink); }
+.editor-styles-wrapper :is(.bar7-button--link, .bar7-button--link-light) .wp-block-button__link { min-height: 0; padding: 0 0 6px; gap: 10px; background: none; color: var(--ink); border: 0; border-bottom: 1.5px solid var(--ink); border-radius: 0; }
+.editor-styles-wrapper .bar7-button--link-light .wp-block-button__link { color: var(--white); border-bottom-color: var(--white); }
+.editor-styles-wrapper [class*="bar7-button--"] .wp-block-button__link::after {
+	content: ""; flex: 0 0 16px; width: 16px; height: 16px; background: currentColor;
+	-webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5 12h14M13 6l6 6-6 6'/%3E%3C/svg%3E") center / contain no-repeat;
+	mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5 12h14M13 6l6 6-6 6'/%3E%3C/svg%3E") center / contain no-repeat;
+}
+.editor-styles-wrapper .bar7-icon--arrow-up .wp-block-button__link::after {
+	-webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M7 17 17 7M9 7h8v8'/%3E%3C/svg%3E");
+	mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M7 17 17 7M9 7h8v8'/%3E%3C/svg%3E");
+}
+
+/* Hero photo: the website outputs it as a <picture>; here it is the Image block's figure */
+.editor-styles-wrapper figure.bar7-hero__media { margin: 0; }
+@media (min-width: 700px) {
+	.editor-styles-wrapper figure.bar7-hero__media { position: absolute; inset: 0; }
+	.editor-styles-wrapper figure.bar7-hero__media > div,
+	.editor-styles-wrapper figure.bar7-hero__media .components-resizable-box__container { position: static !important; width: auto !important; height: auto !important; }
+	.editor-styles-wrapper .bar7-hero__inner { position: relative; }
+}
+
+/* Server-rendered Rovakivo blocks: links are previews here */
+.editor-styles-wrapper .bar7-ssr :is(a, button, input, select, label, form) { pointer-events: none; }
+.editor-styles-wrapper .bar7-ssr .components-placeholder { min-height: 120px; }
+
+/* The product filter buttons are revealed by the site script; show them in the editor preview too */
+.editor-styles-wrapper .bar7-tabs[data-bar7-tabs][hidden] { display: inline-flex !important; }
+
+/* Cart / checkout preview inside the WooCommerce shortcode block */
+.editor-styles-wrapper .bar7-woo-preview__note { margin: 16px 0 0; padding: 8px 12px; font: 500 12px/1.5 var(--font-body); color: #3c3c3a; background: var(--paper); border: 1px dashed #9a9a94; border-radius: var(--radius); }
+.editor-styles-wrapper .bar7-button--continue .wp-block-button__link { display: inline-flex; align-items: center; gap: 10px; padding: 0 0 6px; font: 600 14px/1 var(--font-body); color: var(--ink); background: none; border: 0; border-bottom: 1.5px solid var(--ink); border-radius: 0; box-shadow: none; }
+.editor-styles-wrapper .bar7-button--continue .wp-block-button__link::before {
+	content: ""; width: 16px; height: 16px; background: currentColor;
+	-webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M19 12H5M11 6l-6 6 6 6'/%3E%3C/svg%3E") center / contain no-repeat;
+	mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M19 12H5M11 6l-6 6 6 6'/%3E%3C/svg%3E") center / contain no-repeat;
+}
+.editor-styles-wrapper .bar7-button--continue .wp-block-button__link::after { content: none; }
+.editor-styles-wrapper .bar7-icon--arrow-down .wp-block-button__link::after {
+	-webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M12 5v14M6 13l6 6 6-6'/%3E%3C/svg%3E");
+	mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M12 5v14M6 13l6 6 6-6'/%3E%3C/svg%3E");
+}
+.editor-styles-wrapper .wp-block-buttons.bar7-aboutopen__actions { display: flex; flex-wrap: wrap; align-items: center; }

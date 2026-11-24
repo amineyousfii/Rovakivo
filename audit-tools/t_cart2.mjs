@@ -1,0 +1,32 @@
+const click = async (page, sel) => {
+	const r = await page.eval((s) => { const el = document.querySelector(s); el.scrollIntoView({ block: 'center' }); const b = el.getBoundingClientRect(); const top = document.elementFromPoint(b.x + b.width / 2, b.y + b.height / 2); return { x: b.x + b.width / 2, y: b.y + b.height / 2, hit: top === el || el.contains(top), top: top && (top.tagName + '.' + top.className) }; }, sel);
+	await page.sleep(300);
+	for (const type of ['mousePressed', 'mouseReleased']) await page.send('Input.dispatchMouseEvent', { type, x: r.x, y: r.y, button: 'left', clickCount: 1 });
+	return r;
+};
+export default async ({ page }) => {
+	const net = [];
+	page.listeners.push((m) => { if (m.method === 'Network.requestWillBeSent' && /wc-ajax|cart/.test(m.params.request.url)) net.push(m.params.request.method + ' ' + m.params.request.url.replace('http://7bar.local', '')); if (m.method === 'Network.responseReceived' && /wc-ajax/.test(m.params.response.url)) net.push('  <- ' + m.params.response.status + ' ' + m.params.response.url.replace('http://7bar.local', '')); });
+	await page.send('Network.setCookie', { name: 'rovakivo_consent', value: 'rejected', domain: '7bar.local', path: '/' });
+	await page.viewport(1440, 900, false);
+	await page.goto('http://7bar.local/?add-to-cart=66', 800);
+	await page.goto('http://7bar.local/cart/', 3000);
+	const out = {};
+	out.handlers = await page.eval(() => { const ev = jQuery._data(document, 'events') || {}; return { submit: (ev.submit || []).map((h) => h.selector), click: (ev.click || []).map((h) => h.selector).filter(Boolean).slice(0, 15) }; });
+	net.push('--- coupon');
+	await page.eval(() => { document.querySelector('#coupon_code').value = 'NOTAREALCODE'; return 1; });
+	out.hit1 = await click(page, 'button[name="apply_coupon"]');
+	out.wait1 = await page.eval(async () => { for (let i = 0; i < 300; i++) { await new Promise((x) => setTimeout(x, 200)); if (!document.querySelector('.blockUI')) { await new Promise((x) => setTimeout(x, 600)); if (!document.querySelector('.blockUI')) return i; } } return 'timeout ' + [...document.querySelectorAll('.blockUI')].map((b) => b.parentElement.className).join(','); });
+	out.coupon = await page.eval(() => ({ invalid: document.querySelector('#coupon_code')?.getAttribute('aria-invalid'), err: document.querySelector('.coupon-error-notice')?.textContent.trim(), blocked: !!document.querySelector('.blockUI') }));
+	await page.screenshot('C:/Users/HP/Desktop/Claude Code/Rovakivo/screenshots/audit/state-coupon-error-1440.png');
+	net.push('--- qty');
+	out.hit2 = await click(page, '.woocommerce-cart-form__cart-item .quantity button:last-of-type');
+	await page.sleep(300);
+	out.qtyAfterClick = await page.eval(() => document.querySelector('.woocommerce-cart-form input.qty')?.value);
+	await page.sleep(1200);
+	out.wait2 = await page.eval(async () => { for (let i = 0; i < 300; i++) { await new Promise((x) => setTimeout(x, 200)); if (!document.querySelector('.blockUI')) { await new Promise((x) => setTimeout(x, 600)); if (!document.querySelector('.blockUI')) return i; } } return 'timeout ' + [...document.querySelectorAll('.blockUI')].map((b) => b.parentElement.className).join(','); });
+	await page.screenshot('C:/Users/HP/Desktop/Claude Code/Rovakivo/screenshots/audit/state-cart-qty-updated-1440.png');
+	out.qty = await page.eval(() => ({ qty: document.querySelector('.woocommerce-cart-form input.qty')?.value, subtotal: document.querySelector('.cart-subtotal .amount')?.textContent, total: document.querySelector('.order-total .amount')?.textContent, line: document.querySelector('.product-subtotal .amount')?.textContent, notice: [...document.querySelectorAll('.woocommerce-message, .woocommerce-info')].map((n) => n.textContent.trim()).join(' | '), live: document.getElementById('bar7-live')?.textContent }));
+	out.net = net.filter((l) => /wc-ajax|POST/.test(l));
+	return out;
+};

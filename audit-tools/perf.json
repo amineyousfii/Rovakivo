@@ -1,0 +1,323 @@
+{
+ "perf": {
+  "home-mobile": [
+   {
+    "ttfb": 4522,
+    "dcl": 7416,
+    "load": 7420,
+    "lcp": 6040,
+    "cls": 0.045,
+    "requests": 28,
+    "kbTotal": 290,
+    "kbHtml": 18,
+    "kbJs": 115,
+    "kbCss": 16,
+    "kbImg": 139,
+    "kbFont": 1
+   },
+   {
+    "ttfb": 44162,
+    "dcl": 47997,
+    "load": 47999,
+    "lcp": 44936,
+    "cls": 0.045,
+    "requests": 28,
+    "kbTotal": 290,
+    "kbHtml": 18,
+    "kbJs": 115,
+    "kbCss": 16,
+    "kbImg": 139,
+    "kbFont": 1
+   }
+  ],
+  "shop-mobile": [
+   {
+    "ttfb": 4994,
+    "dcl": 8392,
+    "load": 8421,
+    "lcp": 6940,
+    "cls": 0.03,
+    "requests": 39,
+    "kbTotal": 402,
+    "kbHtml": 19,
+    "kbJs": 152,
+    "kbCss": 53,
+    "kbImg": 175,
+    "kbFont": 1
+   },
+   {
+    "ttfb": 2823,
+    "dcl": 6610,
+    "load": 6633,
+    "lcp": 4864,
+    "cls": 0.03,
+    "requests": 39,
+    "kbTotal": 402,
+    "kbHtml": 19,
+    "kbJs": 152,
+    "kbCss": 53,
+    "kbImg": 175,
+    "kbFont": 1
+   }
+  ],
+  "product-mobile": [
+   {
+    "ttfb": 1426,
+    "dcl": 1835,
+    "load": 2332,
+    "lcp": 1812,
+    "cls": 0.003,
+    "requests": 39,
+    "kbTotal": 312,
+    "kbHtml": 21,
+    "kbJs": 175,
+    "kbCss": 57,
+    "kbImg": 57,
+    "kbFont": 1
+   },
+   {
+    "ttfb": 2353,
+    "dcl": 3189,
+    "load": 4632,
+    "lcp": 3096,
+    "cls": 0.004,
+    "requests": 39,
+    "kbTotal": 312,
+    "kbHtml": 21,
+    "kbJs": 175,
+    "kbCss": 57,
+    "kbImg": 57,
+    "kbFont": 1
+   }
+  ],
+  "contact-mobile": [
+   {
+    "ttfb": 2373,
+    "dcl": 5838,
+    "load": 5840,
+    "lcp": 3180,
+    "cls": 0,
+    "requests": 37,
+    "kbTotal": 220,
+    "kbHtml": 18,
+    "kbJs": 156,
+    "kbCss": 40,
+    "kbImg": 3,
+    "kbFont": 1
+   },
+   {
+    "ttfb": 2958,
+    "dcl": 5156,
+    "load": 5207,
+    "lcp": 3820,
+    "cls": 0,
+    "requests": 37,
+    "kbTotal": 220,
+    "kbHtml": 18,
+    "kbJs": 156,
+    "kbCss": 40,
+    "kbImg": 3,
+    "kbFont": 1
+   }
+  ],
+  "home-desktop": [
+   {
+    "ttfb": 3122,
+    "dcl": 3776,
+    "load": 4089,
+    "lcp": 3584,
+    "cls": 0,
+    "requests": 30,
+    "kbTotal": 353,
+    "kbHtml": 18,
+    "kbJs": 115,
+    "kbCss": 16,
+    "kbImg": 202,
+    "kbFont": 1
+   },
+   {
+    "ttfb": 2472,
+    "dcl": 2724,
+    "load": 3294,
+    "lcp": 2716,
+    "cls": 0,
+    "requests": 30,
+    "kbTotal": 353,
+    "kbHtml": 18,
+    "kbJs": 115,
+    "kbCss": 16,
+    "kbImg": 202,
+    "kbFont": 1
+   }
+  ],
+  "shop-desktop": [
+   {
+    "ttfb": 7857,
+    "dcl": 8731,
+    "load": 9025,
+    "lcp": 8436,
+    "cls": 0.01,
+    "requests": 40,
+    "kbTotal": 579,
+    "kbHtml": 19,
+    "kbJs": 152,
+    "kbCss": 53,
+    "kbImg": 352,
+    "kbFont": 1
+   },
+   {
+    "ttfb": 1829,
+    "dcl": 2543,
+    "load": 2898,
+    "lcp": 2376,
+    "cls": 0.01,
+    "requests": 40,
+    "kbTotal": 579,
+    "kbHtml": 19,
+    "kbJs": 152,
+    "kbCss": 53,
+    "kbImg": 352,
+    "kbFont": 1
+   }
+  ],
+  "product-desktop": [
+   {
+    "ttfb": 1790,
+    "dcl": 2285,
+    "load": 2441,
+    "lcp": 2168,
+    "cls": 0.007,
+    "requests": 43,
+    "kbTotal": 536,
+    "kbHtml": 21,
+    "kbJs": 175,
+    "kbCss": 57,
+    "kbImg": 280,
+    "kbFont": 1
+   },
+   {
+    "ttfb": 1654,
+    "dcl": 2110,
+    "load": 2128,
+    "lcp": 1904,
+    "cls": 0.007,
+    "requests": 43,
+    "kbTotal": 533,
+    "kbHtml": 21,
+    "kbJs": 175,
+    "kbCss": 57,
+    "kbImg": 278,
+    "kbFont": 1
+   }
+  ],
+  "contact-desktop": [
+   {
+    "ttfb": 1694,
+    "dcl": 2110,
+    "load": 2116,
+    "lcp": 1880,
+    "cls": 0,
+    "requests": 37,
+    "kbTotal": 220,
+    "kbHtml": 18,
+    "kbJs": 156,
+    "kbCss": 40,
+    "kbImg": 3,
+    "kbFont": 1
+   },
+   {
+    "ttfb": 1884,
+    "dcl": 2428,
+    "load": 2516,
+    "lcp": 2324,
+    "cls": 0,
+    "requests": 37,
+    "kbTotal": 220,
+    "kbHtml": 18,
+    "kbJs": 156,
+    "kbCss": 40,
+    "kbImg": 3,
+    "kbFont": 1
+   }
+  ]
+ },
+ "motion": {
+  "on /": {
+   "motionClass": true,
+   "lenis": true,
+   "scripts": {
+    "gsap": 1,
+    "lenis": 1,
+    "motion": 1
+   },
+   "triggers": 18,
+   "stuckHidden": [],
+   "checked": 30,
+   "triggersAfter": 8
+  },
+  "on /shop/": {
+   "motionClass": true,
+   "lenis": true,
+   "scripts": {
+    "gsap": 1,
+    "lenis": 1,
+    "motion": 1
+   },
+   "triggers": 14,
+   "stuckHidden": [],
+   "checked": 21,
+   "triggersAfter": 5
+  },
+  "on /product/aturna-condimentum-mattis-pellentesque-nibh-tortor/": {
+   "motionClass": true,
+   "lenis": true,
+   "scripts": {
+    "gsap": 1,
+    "lenis": 1,
+    "motion": 1
+   },
+   "triggers": 8,
+   "stuckHidden": [],
+   "checked": 19,
+   "triggersAfter": 6
+  },
+  "on /about/": {
+   "motionClass": true,
+   "lenis": true,
+   "scripts": {
+    "gsap": 1,
+    "lenis": 1,
+    "motion": 1
+   },
+   "triggers": 7,
+   "stuckHidden": [],
+   "checked": 18,
+   "triggersAfter": 4
+  },
+  "reduced /": {
+   "motionClass": false,
+   "lenis": false,
+   "hidden": 0,
+   "transformed": 0,
+   "checked": 30
+  },
+  "reduced /product/aturna-condimentum-mattis-pellentesque-nibh-tortor/": {
+   "motionClass": false,
+   "lenis": false,
+   "hidden": 0,
+   "transformed": 0,
+   "checked": 19
+  },
+  "blocked /": {
+   "motionClass": false,
+   "hidden": 0,
+   "checked": 30
+  },
+  "blocked /shop/": {
+   "motionClass": false,
+   "hidden": 0,
+   "checked": 21
+  }
+ },
+ "errors": []
+}

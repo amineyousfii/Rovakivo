@@ -1,0 +1,40 @@
+# .gitignore — tells Git which files to leave out of the repository.
+# Rule of thumb: only OUR work goes to GitHub. WordPress core, other people's plugins and themes,
+# images, the database and anything secret stay on this computer (and in the host's backups).
+# A line starting with "/" means "from the repository root"; "!" means "but DO include this".
+
+# --- Local by WP Engine folders we don't track
+# Database dumps (they contain customer and account data) and old copies of files
+/backups/
+# Server logs
+/logs/
+# Test screenshots (large, can be re-created with audit-tools)
+/screenshots/
+# Local's own database dump
+/app/sql/
+
+# --- WordPress: track only our storefront plugin (7bar-homepage)
+# Everything else under app/ is WordPress itself, third-party plugins and themes,
+# or uploaded images: all re-installable or backed up by the host.
+/app/*
+!/app/public/
+/app/public/*
+!/app/public/wp-content/
+/app/public/wp-content/*
+!/app/public/wp-content/plugins/
+/app/public/wp-content/plugins/*
+!/app/public/wp-content/plugins/7bar-homepage/
+
+# --- Never commit these, wherever they are
+# WordPress settings file: database password and security keys
+wp-config.php
+.env
+*.sql
+*.sql.gz
+*.zip
+*.log
+node_modules/
+# Files Windows and macOS create on their own
+Thumbs.db
+desktop.ini
+.DS_Store

@@ -1,0 +1,151 @@
+{
+ "emptyCart": {
+  "text": "Your cart is currently empty.",
+  "back": "http://7bar.local/shop/"
+ },
+ "checkoutEmptyRedirect": "/cart/",
+ "ajaxAdd": {
+  "added": true,
+  "drawerOpen": true,
+  "items": 1,
+  "focusInDrawer": true,
+  "count": "1Cart, 1 item"
+ },
+ "drawerEscape": {
+  "closed": true,
+  "focus": "bar7-card__action add_to_cart_button ajax_add_to_cart added"
+ },
+ "cart": {
+  "rows": 1,
+  "total": "25,00 €",
+  "shipping": "Shipment Free shipping Shipping options will be updated during checkout. Calculate shipping Country / Region * Select a ",
+  "calc": true,
+  "coupon": true
+ },
+ "couponError": "",
+ "qtyUpdate": {
+  "qty": "2",
+  "total": "25,00 €",
+  "notice": ""
+ },
+ "checkout": {
+  "payment": "Sorry, it seems that there are no available payment methods. Please contact us if you require assistance or wish to make alternate arrangements. Since your browser does not support JavaScript, or it i",
+  "placeOrder": true,
+  "terms": false,
+  "privacyText": "Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our privacy policy.",
+  "countries": 251
+ },
+ "checkoutErrors": {
+  "count": 8,
+  "first": [
+   "Billing First name is a required field.",
+   "Billing Last name is a required field.",
+   "Billing Street address is a required field.",
+   "Billing Town / City is a required field.",
+   "Billing Postcode / ZIP is not a valid postcode / ZIP.",
+   "Billing Phone is a required field.",
+   "Billing Email address is a required field.",
+   "Invalid payment method."
+  ],
+  "invalidFields": 13,
+  "url": "/checkout/"
+ },
+ "afterRemove": {
+  "notice": "“Black Everyday Backpack” removed. Undo?",
+  "rows": 0
+ },
+ "account": {
+  "login": true,
+  "register": false,
+  "lost": "http://7bar.local/my-account/lost-password/"
+ },
+ "loginEmpty": "Error: Username is required.",
+ "lostPassword": "Invalid username or email.",
+ "searchEmpty": {
+  "text": "Home Shop Search results for “zzqqx” SEARCH Results for “zzqqx” Search again Search CATEGORY All backpacks Casual (7) Travel (5) PRICE From (€) To (€) OFFERS On sale only Apply filters 0 backpacks Nothing found for “zzqqx”. Check the spelling, try a shorter wo"
+ },
+ "contactForm": {
+  "fields": [
+   {
+    "type": "text",
+    "label": "First & Last Name *",
+    "required": true
+   },
+   {
+    "type": "text",
+    "label": "",
+    "required": false
+   },
+   {
+    "type": "email",
+    "label": "Email Address *",
+    "required": true
+   },
+   {
+    "type": "text",
+    "label": "Subject",
+    "required": false
+   },
+   {
+    "type": "text",
+    "label": "Last Last *",
+    "required": false
+   },
+   {
+    "type": "textarea",
+    "label": "Message *",
+    "required": true
+   }
+  ],
+  "errors": [
+   "This field is required.",
+   "This field is required.",
+   "This field is required."
+  ],
+  "stillThere": true
+ },
+ "newsletter": {
+  "type": "email",
+  "required": true,
+  "label": true,
+  "validity": false,
+  "message": "Veuillez inclure \"@\" dans l'adresse e-mail. Il manque un symbole \"@\" dans \"not-an-email\".",
+  "consentText": "Your email address Subscribe We’ll ask you to confirm your address first. Read our privacy policy."
+ },
+ "menu": {
+  "expanded": "true",
+  "focusIn": true,
+  "links": [
+   "Shop all",
+   "Casual",
+   "Travel",
+   "Sale",
+   "About",
+   "Your account",
+   "Cart",
+   "Contact us"
+  ],
+  "afterEsc": "false",
+  "focusBack": true
+ },
+ "a11y": {
+  "skip": "Skip to content",
+  "main": true,
+  "lang": "en-US",
+  "footerTargets": [
+   ":25",
+   "Back to top:31"
+  ]
+ },
+ "errors": [
+  "[PPCP SDK v6] Error: PayPal SDK v6 did not load within 15000 ms.\n    at ht (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:25675)\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:177358\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:173905)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:174748)\n    at ju (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:174930)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:175133)\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:175194\n    at new Promise (<anonymous>)\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:175074\n    at j (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:178095)",
+  "[PPCP SDK v6] Error: PayPal SDK v6 did not load within 15000 ms.\n    at ht (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:25675)\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:177358\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:173905)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:174748)\n    at ju (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:174930)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:175133)\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:175194\n    at new Promise (<anonymous>)\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:175074\n    at j (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:178095)",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)"
+ ]
+}

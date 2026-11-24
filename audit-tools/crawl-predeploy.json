@@ -1,0 +1,1322 @@
+{
+ "pages": {
+  "/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Home - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Carry your day.Explore what’s next."
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 78,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/shop/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Shop - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "All bags &amp; backpacks."
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 88,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/cart/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Cart - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Your cart"
+   ],
+   "jsonld": [
+    "WebPage,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 58,
+   "noAlt": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "/checkout/": {
+   "status": 302,
+   "location": "http://7bar.local/cart/",
+   "type": "text/html",
+   "title": null,
+   "description": null,
+   "robots": null,
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [],
+   "jsonld": [],
+   "absLocalLinks": 0,
+   "noAlt": []
+  },
+  "/my-account/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "My account - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Sign in"
+   ],
+   "jsonld": [
+    "WebPage,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 58,
+   "noAlt": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "/my-account/lost-password/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "My account - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Reset your password"
+   ],
+   "jsonld": [
+    "WebPage,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 58,
+   "noAlt": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "/about/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "About - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "For every day.For wherever’s next."
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 59,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/contact/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Contact - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Contact us."
+   ],
+   "jsonld": [
+    "WebPage,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 61,
+   "noAlt": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/privacy-policy-2/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Privacy Policy - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Privacy Policy"
+   ],
+   "jsonld": [
+    "WebPage,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 57,
+   "noAlt": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "/shop/?on_sale=1": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Shop - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "The sale edit."
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 73,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/?s=green&post_type=product": {
+   "status": 200,
+   "type": "text/html",
+   "title": "You searched for green - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Results for “green”"
+   ],
+   "jsonld": [
+    "CollectionPage,SearchResultsPage,ImageObject,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 69,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/this-page-does-not-exist-404-test/": {
+   "status": 404,
+   "type": "text/html",
+   "title": "Page not found - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "This trail doesn’t lead anywhere."
+   ],
+   "jsonld": [
+    "WebSite,Organization"
+   ],
+   "absLocalLinks": 52,
+   "noAlt": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "/robots.txt": {
+   "status": 200,
+   "type": "text/plain",
+   "text": "User-agent: *\r\nDisallow: /wp-content/uploads/wc-logs/\r\nDisallow: /wp-content/uploads/woocommerce_transient_files/\r\nDisallow: /wp-content/uploads/woocommerce_uploads/\r\nDisallow: /*?add-to-cart=\r\nDisallow: /*?*add-to-cart=\r\nDisallow: /wp-admin/\r\nAllow: /wp-admin/admin-ajax.php\r\n\r\n# START YOAST BLOCK\r\n# ---------------------------\r\nUser-agent: *\r\nDisallow:\r\n\r\nSitemap: http://7bar.local/sitemap_index."
+  },
+  "/sitemap_index.xml": {
+   "status": 200,
+   "type": "text/xml",
+   "locs": [
+    "http://7bar.local/page-sitemap.xml",
+    "http://7bar.local/product-sitemap.xml",
+    "http://7bar.local/mailpoet_page-sitemap.xml",
+    "http://7bar.local/product_cat-sitemap.xml"
+   ]
+  },
+  "/wp-sitemap.xml": {
+   "status": 301,
+   "location": "http://7bar.local/sitemap_index.xml",
+   "type": "text/html",
+   "title": null,
+   "description": null,
+   "robots": null,
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [],
+   "jsonld": [],
+   "absLocalLinks": 0,
+   "noAlt": []
+  },
+  "/author/amine/": {
+   "status": 404,
+   "type": "text/html",
+   "title": "Page not found - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "This trail doesn’t lead anywhere."
+   ],
+   "jsonld": [
+    "WebSite,Organization"
+   ],
+   "absLocalLinks": 52,
+   "noAlt": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "/terms/": {
+   "status": 404,
+   "type": "text/html",
+   "title": "Page not found - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "This trail doesn’t lead anywhere."
+   ],
+   "jsonld": [
+    "WebSite,Organization"
+   ],
+   "absLocalLinks": 52,
+   "noAlt": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "/shipping/": {
+   "status": 404,
+   "type": "text/html",
+   "title": "Page not found - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "This trail doesn’t lead anywhere."
+   ],
+   "jsonld": [
+    "WebSite,Organization"
+   ],
+   "absLocalLinks": 52,
+   "noAlt": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "/returns/": {
+   "status": 404,
+   "type": "text/html",
+   "title": "Page not found - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "This trail doesn’t lead anywhere."
+   ],
+   "jsonld": [
+    "WebSite,Organization"
+   ],
+   "absLocalLinks": 52,
+   "noAlt": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "/sale/": {
+   "status": 302,
+   "location": "http://7bar.local/shop/?on_sale=1",
+   "type": "text/html",
+   "title": null,
+   "description": null,
+   "robots": null,
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [],
+   "jsonld": [],
+   "absLocalLinks": 0,
+   "noAlt": []
+  },
+  "/?p=1": {
+   "status": 404,
+   "type": "text/html",
+   "title": "Page not found - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "This trail doesn’t lead anywhere."
+   ],
+   "jsonld": [
+    "WebSite,Organization"
+   ],
+   "absLocalLinks": 52,
+   "noAlt": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "/feed/": {
+   "status": 200,
+   "type": "application/rss+xml",
+   "locs": []
+  },
+  "/product-category/casual/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Casual Archives - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Casual backpacks."
+   ],
+   "jsonld": [
+    "CollectionPage,ImageObject,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 83,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/product-category/travel/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Travel Archives - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Travel backpacks."
+   ],
+   "jsonld": [
+    "CollectionPage,ImageObject,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 79,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/product/aturna-condimentum-mattis-pellentesque-nibh-tortor/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Olive Everyday Backpack - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Olive Everyday Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 71,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/product/fringilla-phasellus-faucus-scelerisque-eleifend-donec/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Brown Flap Backpack - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Brown Flap Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 71,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/product/mollis-nunc-sed-id-semper-risus-in-hendrerit/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Charcoal Buckle Backpack - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Charcoal Buckle Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 72,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/product/scelerisque-mauris-pellentesque-pulvinar/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Forest Green Travel Backpack - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Forest Green Travel Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 72,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/product/ornare-arcudui-vivamus-arcu-felis-bibendum/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Three Backpack Selection - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Three Backpack Selection"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 74,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/product/libero-faucibus-nistincidunt/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Green Zip Backpack - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Green Zip Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 71,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/product/donec-ultrices-tincidunt-arcu-non-sodales/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Black Everyday Backpack - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Black Everyday Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 72,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/product/vestibulum-sedarcu-nonodio-euismod/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Black Travel Backpack - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Black Travel Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 71,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/product/alpine-blue-trekking-backpack/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Alpine Blue Trekking Backpack - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Alpine Blue Trekking Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 72,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/product/black-orange-commuter-backpack/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Black &amp; Orange Commuter Backpack - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Black &amp; Orange Commuter Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 71,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/product/ornare-arcu-odio-utsem-nullapharetra-diam/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Charcoal &amp; Tan Travel Backpack - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Charcoal &amp; Tan Travel Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 72,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/product/evergreen-trek-backpack/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Evergreen Trek Backpack - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Evergreen Trek Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 71,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/product/heather-grey-city-backpack/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Heather Grey City Backpack - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Heather Grey City Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 71,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/product/eleifend-donec-pretium-vulputate-sapien-sagittis/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Minimal Zip Backpack - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Minimal Zip Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 71,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/shop/page/2/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Shop - Page 2 of 2 - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "All bags &amp; backpacks."
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,WebSite,Organization"
+   ],
+   "absLocalLinks": 77,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/my-account/orders/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "My account - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Sign in"
+   ],
+   "jsonld": [
+    "WebPage,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 58,
+   "noAlt": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "/product-category/casual/?on_sale=1": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Casual Archives - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Casual backpacks."
+   ],
+   "jsonld": [
+    "CollectionPage,ImageObject,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 73,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/product-category/travel/?on_sale=1": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Travel Archives - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Travel backpacks."
+   ],
+   "jsonld": [
+    "CollectionPage,ImageObject,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 69,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/shop/?on_sale=1&": {
+   "status": 301,
+   "location": "http://7bar.local/shop/?on_sale=1",
+   "type": "text/html",
+   "title": null,
+   "description": null,
+   "robots": null,
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [],
+   "jsonld": [],
+   "absLocalLinks": 0,
+   "noAlt": []
+  },
+  "/?s=green&": {
+   "status": 200,
+   "type": "text/html",
+   "title": "You searched for green - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Results for “green”"
+   ],
+   "jsonld": [
+    "CollectionPage,SearchResultsPage,ImageObject,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 67,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/page-sitemap.xml": {
+   "status": 200,
+   "type": "text/xml",
+   "locs": [
+    "http://7bar.local/",
+    "http://7bar.local/privacy-policy-2/",
+    "http://7bar.local/contact/",
+    "http://7bar.local/cart/",
+    "http://7bar.local/checkout/",
+    "http://7bar.local/my-account/",
+    "http://7bar.local/shop/?on_sale=1",
+    "http://7bar.local/shop/",
+    "http://7bar.local/about/"
+   ]
+  },
+  "/product-sitemap.xml": {
+   "status": 200,
+   "type": "text/xml",
+   "locs": [
+    "http://7bar.local/shop/",
+    "http://7bar.local/product/mollis-nunc-sed-id-semper-risus-in-hendrerit/",
+    "http://7bar.local/product/scelerisque-mauris-pellentesque-pulvinar/",
+    "http://7bar.local/product/rhoncus-aenean-velelit-scelerisque-mauris/",
+    "http://7bar.local/product/ornare-arcu-odio-utsem-nullapharetra-diam/",
+    "http://7bar.local/product/tellus-molestie-nuncnon-blandit/",
+    "http://7bar.local/product/fringilla-phasellus-faucus-scelerisque-eleifend-donec/",
+    "http://7bar.local/product/aturna-condimentum-mattis-pellentesque-nibh-tortor/",
+    "http://7bar.local/product/eleifend-donec-pretium-vulputate-sapien-sagittis/",
+    "http://7bar.local/product/libero-faucibus-nistincidunt/",
+    "http://7bar.local/product/ornare-arcudui-vivamus-arcu-felis-bibendum/",
+    "http://7bar.local/product/vestibulum-sedarcu-nonodio-euismod/",
+    "http://7bar.local/product/donec-ultrices-tincidunt-arcu-non-sodales/",
+    "http://7bar.local/product/onyx-double-zip-backpack/",
+    "http://7bar.local/product/heather-grey-city-backpack/",
+    "http://7bar.local/product/black-orange-commuter-backpack/",
+    "http://7bar.local/product/orange-trail-daypack/",
+    "http://7bar.local/product/evergreen-trek-backpack/",
+    "http://7bar.local/product/alpine-blue-trekking-backpack/"
+   ]
+  },
+  "/mailpoet_page-sitemap.xml": {
+   "status": 200,
+   "type": "text/xml",
+   "locs": [
+    "http://7bar.local/?mailpoet_page=subscriptions",
+    "http://7bar.local/?mailpoet_page=captcha"
+   ]
+  },
+  "/product_cat-sitemap.xml": {
+   "status": 200,
+   "type": "text/xml",
+   "locs": [
+    "http://7bar.local/product-category/casual/",
+    "http://7bar.local/product-category/travel/"
+   ]
+  },
+  "/product/onyx-double-zip-backpack/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Onyx Double-Zip Backpack - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Onyx Double-Zip Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 71,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/product/rhoncus-aenean-velelit-scelerisque-mauris/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Red Roll-Top Backpack - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Red Roll-Top Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 71,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/product/orange-trail-daypack/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Orange Trail Daypack - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "Orange Trail Daypack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 72,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/product/tellus-molestie-nuncnon-blandit/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "White Printed Flap Backpack - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "White Printed Flap Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 72,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/shop/page/1/": {
+   "status": 301,
+   "location": "http://7bar.local/shop/",
+   "type": "text/html",
+   "title": null,
+   "description": null,
+   "robots": null,
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [],
+   "jsonld": [],
+   "absLocalLinks": 0,
+   "noAlt": []
+  },
+  "/product-category/casual/?on_sale=1&": {
+   "status": 301,
+   "location": "http://7bar.local/product-category/casual/?on_sale=1",
+   "type": "text/html",
+   "title": null,
+   "description": null,
+   "robots": null,
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [],
+   "jsonld": [],
+   "absLocalLinks": 0,
+   "noAlt": []
+  },
+  "/product-category/travel/?on_sale=1&": {
+   "status": 301,
+   "location": "http://7bar.local/product-category/travel/?on_sale=1",
+   "type": "text/html",
+   "title": null,
+   "description": null,
+   "robots": null,
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [],
+   "jsonld": [],
+   "absLocalLinks": 0,
+   "noAlt": []
+  },
+  "/?mailpoet_page=subscriptions": {
+   "status": 200,
+   "type": "text/html",
+   "title": "MailPoet Page - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "MailPoet Page"
+   ],
+   "jsonld": [
+    "WebPage,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 55,
+   "noAlt": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "/?mailpoet_page=captcha": {
+   "status": 200,
+   "type": "text/html",
+   "title": "MailPoet Page - Rovakivo",
+   "description": null,
+   "robots": null,
+   "canonical": [
+    null
+   ],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "MailPoet Page"
+   ],
+   "jsonld": [
+    "WebPage,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 55,
+   "noAlt": [
+    "",
+    "",
+    ""
+   ]
+  }
+ },
+ "brokenImages": {},
+ "imagesChecked": 0,
+ "external": {},
+ "scripts": [
+  "/wp-admin/js/password-strength-meter.min.js",
+  "/wp-content/plugins/7bar-homepage/assets/js/motion.js",
+  "/wp-content/plugins/7bar-homepage/assets/js/site.js",
+  "/wp-content/plugins/7bar-homepage/assets/vendor/ScrollTrigger.min.js",
+  "/wp-content/plugins/7bar-homepage/assets/vendor/gsap.min.js",
+  "/wp-content/plugins/7bar-homepage/assets/vendor/lenis.min.js",
+  "/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js",
+  "/wp-content/plugins/woocommerce/assets/js/frontend/account-i18n.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js",
+  "/wp-content/plugins/wpforms-lite/assets/js/frontend/analytics.min.js",
+  "/wp-content/plugins/wpforms-lite/assets/js/frontend/fields/address.min.js",
+  "/wp-content/plugins/wpforms-lite/assets/js/frontend/mailcheck-tlds.min.js",
+  "/wp-content/plugins/wpforms-lite/assets/js/frontend/wpforms-modern.min.js",
+  "/wp-content/plugins/wpforms-lite/assets/js/frontend/wpforms.min.js",
+  "/wp-content/plugins/wpforms-lite/assets/js/share/utils.min.js",
+  "/wp-content/plugins/wpforms-lite/assets/lib/jquery.validate.min.js",
+  "/wp-content/plugins/wpforms-lite/assets/lib/mailcheck.min.js",
+  "/wp-content/plugins/wpforms-lite/assets/lib/punycode.min.js",
+  "/wp-includes/js/dist/hooks.min.js",
+  "/wp-includes/js/dist/i18n.min.js",
+  "/wp-includes/js/jquery/jquery-migrate.min.js",
+  "/wp-includes/js/jquery/jquery.min.js",
+  "/wp-includes/js/underscore.min.js",
+  "/wp-includes/js/wp-util.min.js",
+  "/wp-includes/js/zxcvbn-async.min.js"
+ ]
+}

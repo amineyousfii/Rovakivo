@@ -1,0 +1,1087 @@
+{
+ "pages": {
+  "/": {
+   "status": 200,
+   "location": null,
+   "title": "Rovakivo | Bags and backpacks for every day, travel and time outdoors",
+   "description": [
+    "Discover Rovakivo bags and backpacks for daily routines, travel plans and time outdoors. Shop casual and travel backpacks."
+   ],
+   "robots": [
+    "max-image-preview:large"
+   ],
+   "canonical": [
+    "http://7bar.local/"
+   ],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "website",
+    "og:title": "Rovakivo | Bags and backpacks for every day, travel and time outdoors",
+    "og:description": "Discover Rovakivo bags and backpacks for daily routines, travel plans and time outdoors. Shop casual and travel backpacks.",
+    "og:url": "http://7bar.local/",
+    "og:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "og:image:width": "1200",
+    "og:image:height": "630",
+    "og:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Rovakivo | Bags and backpacks for every day, travel and time outdoors",
+    "twitter:description": "Discover Rovakivo bags and backpacks for daily routines, travel plans and time outdoors. Shop casual and travel backpacks.",
+    "twitter:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "twitter:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors."
+   },
+   "h1": [
+    "Carry your day.Explore what’s next."
+   ],
+   "icons": 6,
+   "jsonld": 1
+  },
+  "/shop/": {
+   "status": 200,
+   "location": null,
+   "title": "All Bags & Backpacks | Rovakivo",
+   "description": [
+    "Shop Rovakivo bags and backpacks for daily routines, travel plans and time outdoors. Casual and travel collections, with current offers."
+   ],
+   "robots": [
+    "max-image-preview:large"
+   ],
+   "canonical": [
+    "http://7bar.local/shop/"
+   ],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "website",
+    "og:title": "All Bags &amp; Backpacks | Rovakivo",
+    "og:description": "Shop Rovakivo bags and backpacks for daily routines, travel plans and time outdoors. Casual and travel collections, with current offers.",
+    "og:url": "http://7bar.local/shop/",
+    "og:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "og:image:width": "1200",
+    "og:image:height": "630",
+    "og:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "All Bags &amp; Backpacks | Rovakivo",
+    "twitter:description": "Shop Rovakivo bags and backpacks for daily routines, travel plans and time outdoors. Casual and travel collections, with current offers.",
+    "twitter:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "twitter:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors."
+   },
+   "h1": [
+    "All bags &amp; backpacks."
+   ],
+   "icons": 6,
+   "jsonld": 0
+  },
+  "/cart/": {
+   "status": 200,
+   "location": null,
+   "title": "Your Cart | Rovakivo",
+   "description": [
+    "For every day. For wherever’s next."
+   ],
+   "robots": [
+    "max-image-preview:large, noindex, follow"
+   ],
+   "canonical": [
+    "http://7bar.local/cart/"
+   ],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "website",
+    "og:title": "Your Cart | Rovakivo",
+    "og:description": "For every day. For wherever’s next.",
+    "og:url": "http://7bar.local/cart/",
+    "og:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "og:image:width": "1200",
+    "og:image:height": "630",
+    "og:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Your Cart | Rovakivo",
+    "twitter:description": "For every day. For wherever’s next.",
+    "twitter:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "twitter:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors."
+   },
+   "h1": [
+    "Your cart"
+   ],
+   "icons": 6,
+   "jsonld": 0
+  },
+  "/checkout/": {
+   "status": 302,
+   "location": "http://7bar.local/cart/",
+   "title": null,
+   "description": null,
+   "robots": null,
+   "canonical": [],
+   "og": {},
+   "h1": [],
+   "icons": 0,
+   "jsonld": 0
+  },
+  "/my-account/": {
+   "status": 200,
+   "location": null,
+   "title": "Sign In | Rovakivo",
+   "description": [
+    "For every day. For wherever’s next."
+   ],
+   "robots": [
+    "max-image-preview:large, noindex, follow"
+   ],
+   "canonical": [
+    "http://7bar.local/my-account/"
+   ],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "website",
+    "og:title": "Sign In | Rovakivo",
+    "og:description": "For every day. For wherever’s next.",
+    "og:url": "http://7bar.local/my-account/",
+    "og:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "og:image:width": "1200",
+    "og:image:height": "630",
+    "og:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Sign In | Rovakivo",
+    "twitter:description": "For every day. For wherever’s next.",
+    "twitter:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "twitter:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors."
+   },
+   "h1": [
+    "Sign in"
+   ],
+   "icons": 6,
+   "jsonld": 0
+  },
+  "/my-account/lost-password/": {
+   "status": 200,
+   "location": null,
+   "title": "Reset Your Password | Rovakivo",
+   "description": [
+    "For every day. For wherever’s next."
+   ],
+   "robots": [
+    "max-image-preview:large, noindex, follow"
+   ],
+   "canonical": [
+    "http://7bar.local/my-account/"
+   ],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "website",
+    "og:title": "Reset Your Password | Rovakivo",
+    "og:description": "For every day. For wherever’s next.",
+    "og:url": "http://7bar.local/my-account/",
+    "og:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "og:image:width": "1200",
+    "og:image:height": "630",
+    "og:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Reset Your Password | Rovakivo",
+    "twitter:description": "For every day. For wherever’s next.",
+    "twitter:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "twitter:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors."
+   },
+   "h1": [
+    "Reset your password"
+   ],
+   "icons": 6,
+   "jsonld": 0
+  },
+  "/about/": {
+   "status": 200,
+   "location": null,
+   "title": "About | Rovakivo",
+   "description": [
+    "Rovakivo is an online shop for bags and backpacks for the daily commute, trips away and time spent outdoors."
+   ],
+   "robots": [
+    "max-image-preview:large"
+   ],
+   "canonical": [
+    "http://7bar.local/about/"
+   ],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "website",
+    "og:title": "About | Rovakivo",
+    "og:description": "Rovakivo is an online shop for bags and backpacks for the daily commute, trips away and time spent outdoors.",
+    "og:url": "http://7bar.local/about/",
+    "og:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "og:image:width": "1200",
+    "og:image:height": "630",
+    "og:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "About | Rovakivo",
+    "twitter:description": "Rovakivo is an online shop for bags and backpacks for the daily commute, trips away and time spent outdoors.",
+    "twitter:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "twitter:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors."
+   },
+   "h1": [
+    "For every day.For wherever’s next."
+   ],
+   "icons": 6,
+   "jsonld": 0
+  },
+  "/contact/": {
+   "status": 200,
+   "location": null,
+   "title": "Contact | Rovakivo",
+   "description": [
+    "Questions about a bag, an order or your account? Send Rovakivo a message and we’ll reply by email."
+   ],
+   "robots": [
+    "max-image-preview:large"
+   ],
+   "canonical": [
+    "http://7bar.local/contact/"
+   ],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "website",
+    "og:title": "Contact | Rovakivo",
+    "og:description": "Questions about a bag, an order or your account? Send Rovakivo a message and we’ll reply by email.",
+    "og:url": "http://7bar.local/contact/",
+    "og:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "og:image:width": "1200",
+    "og:image:height": "630",
+    "og:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Contact | Rovakivo",
+    "twitter:description": "Questions about a bag, an order or your account? Send Rovakivo a message and we’ll reply by email.",
+    "twitter:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "twitter:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors."
+   },
+   "h1": [
+    "Contact us."
+   ],
+   "icons": 6,
+   "jsonld": 0
+  },
+  "/privacy-policy-2/": {
+   "status": 200,
+   "location": null,
+   "title": "Privacy Policy | Rovakivo",
+   "description": [
+    "How the Rovakivo website uses the information you share when you order, sign up for the newsletter or send a message."
+   ],
+   "robots": [
+    "max-image-preview:large"
+   ],
+   "canonical": [
+    "http://7bar.local/privacy-policy-2/"
+   ],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "website",
+    "og:title": "Privacy Policy | Rovakivo",
+    "og:description": "How the Rovakivo website uses the information you share when you order, sign up for the newsletter or send a message.",
+    "og:url": "http://7bar.local/privacy-policy-2/",
+    "og:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "og:image:width": "1200",
+    "og:image:height": "630",
+    "og:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Privacy Policy | Rovakivo",
+    "twitter:description": "How the Rovakivo website uses the information you share when you order, sign up for the newsletter or send a message.",
+    "twitter:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "twitter:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors."
+   },
+   "h1": [
+    "Privacy Policy"
+   ],
+   "icons": 6,
+   "jsonld": 0
+  },
+  "/?s=green&post_type=product": {
+   "status": 200,
+   "location": null,
+   "title": "Search Results for &#8220;green&#8221; | Rovakivo",
+   "description": [
+    "Shop Rovakivo bags and backpacks for daily routines, travel plans and time outdoors. Casual and travel collections, with current offers."
+   ],
+   "robots": [
+    "noindex, follow, max-image-preview:large"
+   ],
+   "canonical": [],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "website",
+    "og:title": "Search Results for &#8220;green&#8221; | Rovakivo",
+    "og:description": "Shop Rovakivo bags and backpacks for daily routines, travel plans and time outdoors. Casual and travel collections, with current offers.",
+    "og:url": "http://7bar.local/?s=green&amp;post_type=product",
+    "og:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "og:image:width": "1200",
+    "og:image:height": "630",
+    "og:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Search Results for &#8220;green&#8221; | Rovakivo",
+    "twitter:description": "Shop Rovakivo bags and backpacks for daily routines, travel plans and time outdoors. Casual and travel collections, with current offers.",
+    "twitter:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "twitter:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors."
+   },
+   "h1": [
+    "Results for “green”"
+   ],
+   "icons": 6,
+   "jsonld": 0
+  },
+  "/this-page-does-not-exist-404-test/": {
+   "status": 404,
+   "location": null,
+   "title": "Page not found | Rovakivo",
+   "description": null,
+   "robots": [
+    "max-image-preview:large"
+   ],
+   "canonical": [],
+   "og": {},
+   "h1": [
+    "This trail doesn’t lead anywhere."
+   ],
+   "icons": 6,
+   "jsonld": 0
+  },
+  "/robots.txt": {
+   "status": 200,
+   "location": null
+  },
+  "/wp-sitemap.xml": {
+   "status": 200,
+   "location": null
+  },
+  "/product-category/casual/": {
+   "status": 200,
+   "location": null,
+   "title": "Casual Backpacks | Rovakivo",
+   "description": [
+    "Casual backpacks from Rovakivo for commutes, errands and the daily routine, in easy shapes and colours that work with what you already wear."
+   ],
+   "robots": [
+    "max-image-preview:large"
+   ],
+   "canonical": [
+    "http://7bar.local/product-category/casual/"
+   ],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "website",
+    "og:title": "Casual Backpacks | Rovakivo",
+    "og:description": "Casual backpacks from Rovakivo for commutes, errands and the daily routine, in easy shapes and colours that work with what you already wear.",
+    "og:url": "http://7bar.local/product-category/casual/",
+    "og:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "og:image:width": "1200",
+    "og:image:height": "630",
+    "og:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Casual Backpacks | Rovakivo",
+    "twitter:description": "Casual backpacks from Rovakivo for commutes, errands and the daily routine, in easy shapes and colours that work with what you already wear.",
+    "twitter:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "twitter:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors."
+   },
+   "h1": [
+    "Casual backpacks."
+   ],
+   "icons": 6,
+   "jsonld": 0
+  },
+  "/product-category/travel/": {
+   "status": 200,
+   "location": null,
+   "title": "Travel Backpacks | Rovakivo",
+   "description": [
+    "Travel backpacks from Rovakivo for city breaks, weekends away and longer trips, in classic shapes and colours."
+   ],
+   "robots": [
+    "max-image-preview:large"
+   ],
+   "canonical": [
+    "http://7bar.local/product-category/travel/"
+   ],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "website",
+    "og:title": "Travel Backpacks | Rovakivo",
+    "og:description": "Travel backpacks from Rovakivo for city breaks, weekends away and longer trips, in classic shapes and colours.",
+    "og:url": "http://7bar.local/product-category/travel/",
+    "og:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "og:image:width": "1200",
+    "og:image:height": "630",
+    "og:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Travel Backpacks | Rovakivo",
+    "twitter:description": "Travel backpacks from Rovakivo for city breaks, weekends away and longer trips, in classic shapes and colours.",
+    "twitter:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "twitter:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors."
+   },
+   "h1": [
+    "Travel backpacks."
+   ],
+   "icons": 6,
+   "jsonld": 0
+  },
+  "/shop/?on_sale=1": {
+   "status": 200,
+   "location": null,
+   "title": "Sale | Rovakivo",
+   "description": [
+    "Shop Rovakivo bags and backpacks for daily routines, travel plans and time outdoors. Casual and travel collections, with current offers."
+   ],
+   "robots": [
+    "max-image-preview:large, noindex, follow"
+   ],
+   "canonical": [],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "website",
+    "og:title": "Sale | Rovakivo",
+    "og:description": "Shop Rovakivo bags and backpacks for daily routines, travel plans and time outdoors. Casual and travel collections, with current offers.",
+    "og:url": "http://7bar.local/shop/?on_sale=1",
+    "og:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "og:image:width": "1200",
+    "og:image:height": "630",
+    "og:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Sale | Rovakivo",
+    "twitter:description": "Shop Rovakivo bags and backpacks for daily routines, travel plans and time outdoors. Casual and travel collections, with current offers.",
+    "twitter:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "twitter:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors."
+   },
+   "h1": [
+    "The sale edit."
+   ],
+   "icons": 6,
+   "jsonld": 0
+  },
+  "/product/aturna-condimentum-mattis-pellentesque-nibh-tortor/": {
+   "status": 200,
+   "location": null,
+   "title": "Olive Everyday Backpack | Rovakivo",
+   "description": [
+    "Olive backpack with dark contrast straps, a buckled top flap and two front pockets. An everyday backpack for commutes, errands and weekends."
+   ],
+   "robots": [
+    "max-image-preview:large"
+   ],
+   "canonical": [
+    "http://7bar.local/product/aturna-condimentum-mattis-pellentesque-nibh-tortor/"
+   ],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "product",
+    "og:title": "Olive Everyday Backpack | Rovakivo",
+    "og:description": "Olive backpack with dark contrast straps, a buckled top flap and two front pockets. An everyday backpack for commutes, errands and weekends.",
+    "og:url": "http://7bar.local/product/aturna-condimentum-mattis-pellentesque-nibh-tortor/",
+    "og:image": "http://7bar.local/wp-content/uploads/2020/03/andrew-neel-UcgSpU8bOYY-unsplash-768x1024.jpg",
+    "og:image:width": "768",
+    "og:image:height": "1024",
+    "og:image:alt": "Olive backpack with dark straps, a buckled top flap and two front pockets, resting against a fallen tree trunk.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Olive Everyday Backpack | Rovakivo",
+    "twitter:description": "Olive backpack with dark contrast straps, a buckled top flap and two front pockets. An everyday backpack for commutes, errands and weekends.",
+    "twitter:image": "http://7bar.local/wp-content/uploads/2020/03/andrew-neel-UcgSpU8bOYY-unsplash-768x1024.jpg",
+    "twitter:image:alt": "Olive backpack with dark straps, a buckled top flap and two front pockets, resting against a fallen tree trunk."
+   },
+   "h1": [
+    "Olive Everyday Backpack"
+   ],
+   "icons": 6,
+   "jsonld": 1
+  },
+  "/product/fringilla-phasellus-faucus-scelerisque-eleifend-donec/": {
+   "status": 200,
+   "location": null,
+   "title": "Brown Flap Backpack | Rovakivo",
+   "description": [
+    "Warm brown backpack with a darker brown top flap, a front pocket and a round button detail. Simple, everyday style from Rovakivo."
+   ],
+   "robots": [
+    "max-image-preview:large"
+   ],
+   "canonical": [
+    "http://7bar.local/product/fringilla-phasellus-faucus-scelerisque-eleifend-donec/"
+   ],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "product",
+    "og:title": "Brown Flap Backpack | Rovakivo",
+    "og:description": "Warm brown backpack with a darker brown top flap, a front pocket and a round button detail. Simple, everyday style from Rovakivo.",
+    "og:url": "http://7bar.local/product/fringilla-phasellus-faucus-scelerisque-eleifend-donec/",
+    "og:image": "http://7bar.local/wp-content/uploads/2020/03/micah-tindell-ysu9athq_BU-unsplash-768x1024.jpg",
+    "og:image:width": "768",
+    "og:image:height": "1024",
+    "og:image:alt": "Brown backpack with a darker brown top flap and a front pocket, standing on grass.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Brown Flap Backpack | Rovakivo",
+    "twitter:description": "Warm brown backpack with a darker brown top flap, a front pocket and a round button detail. Simple, everyday style from Rovakivo.",
+    "twitter:image": "http://7bar.local/wp-content/uploads/2020/03/micah-tindell-ysu9athq_BU-unsplash-768x1024.jpg",
+    "twitter:image:alt": "Brown backpack with a darker brown top flap and a front pocket, standing on grass."
+   },
+   "h1": [
+    "Brown Flap Backpack"
+   ],
+   "icons": 6,
+   "jsonld": 1
+  },
+  "/product/mollis-nunc-sed-id-semper-risus-in-hendrerit/": {
+   "status": 200,
+   "location": null,
+   "title": "Charcoal Buckle Backpack | Rovakivo",
+   "description": [
+    "Structured charcoal backpack with a grey top flap, tan buckle tabs and an orange stripe. A clean, modern bag for the daily routine."
+   ],
+   "robots": [
+    "max-image-preview:large"
+   ],
+   "canonical": [
+    "http://7bar.local/product/mollis-nunc-sed-id-semper-risus-in-hendrerit/"
+   ],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "product",
+    "og:title": "Charcoal Buckle Backpack | Rovakivo",
+    "og:description": "Structured charcoal backpack with a grey top flap, tan buckle tabs and an orange stripe. A clean, modern bag for the daily routine.",
+    "og:url": "http://7bar.local/product/mollis-nunc-sed-id-semper-risus-in-hendrerit/",
+    "og:image": "http://7bar.local/wp-content/uploads/2020/03/jakob-owens-BmH09wAkJa8-unsplash-768x1024.jpg",
+    "og:image:width": "768",
+    "og:image:height": "1024",
+    "og:image:alt": "Charcoal backpack with a grey top flap, tan buckle tabs and an orange stripe, sitting on a rock outdoors.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Charcoal Buckle Backpack | Rovakivo",
+    "twitter:description": "Structured charcoal backpack with a grey top flap, tan buckle tabs and an orange stripe. A clean, modern bag for the daily routine.",
+    "twitter:image": "http://7bar.local/wp-content/uploads/2020/03/jakob-owens-BmH09wAkJa8-unsplash-768x1024.jpg",
+    "twitter:image:alt": "Charcoal backpack with a grey top flap, tan buckle tabs and an orange stripe, sitting on a rock outdoors."
+   },
+   "h1": [
+    "Charcoal Buckle Backpack"
+   ],
+   "icons": 6,
+   "jsonld": 1
+  },
+  "/product/scelerisque-mauris-pellentesque-pulvinar/": {
+   "status": 200,
+   "location": null,
+   "title": "Forest Green Travel Backpack | Rovakivo",
+   "description": [
+    "Tall forest-green backpack with a brown base, long brown straps and diamond strap details. Classic styling for weekends away and longer trips."
+   ],
+   "robots": [
+    "max-image-preview:large"
+   ],
+   "canonical": [
+    "http://7bar.local/product/scelerisque-mauris-pellentesque-pulvinar/"
+   ],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "product",
+    "og:title": "Forest Green Travel Backpack | Rovakivo",
+    "og:description": "Tall forest-green backpack with a brown base, long brown straps and diamond strap details. Classic styling for weekends away and longer trips.",
+    "og:url": "http://7bar.local/product/scelerisque-mauris-pellentesque-pulvinar/",
+    "og:image": "http://7bar.local/wp-content/uploads/2020/03/lina-verovaya-GQQ6BRJxysU-unsplash-768x1024.jpg",
+    "og:image:width": "768",
+    "og:image:height": "1024",
+    "og:image:alt": "Forest-green backpack with a brown base and brown front straps, standing on a paved path.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Forest Green Travel Backpack | Rovakivo",
+    "twitter:description": "Tall forest-green backpack with a brown base, long brown straps and diamond strap details. Classic styling for weekends away and longer trips.",
+    "twitter:image": "http://7bar.local/wp-content/uploads/2020/03/lina-verovaya-GQQ6BRJxysU-unsplash-768x1024.jpg",
+    "twitter:image:alt": "Forest-green backpack with a brown base and brown front straps, standing on a paved path."
+   },
+   "h1": [
+    "Forest Green Travel Backpack"
+   ],
+   "icons": 6,
+   "jsonld": 1
+  },
+  "/product/ornare-arcudui-vivamus-arcu-felis-bibendum/": {
+   "status": 200,
+   "location": null,
+   "title": "Three Backpack Selection | Rovakivo",
+   "description": [
+    "Compare three Rovakivo backpacks and add any combination to your cart: Charcoal Buckle, Forest Green Travel and Charcoal &amp; Tan Travel."
+   ],
+   "robots": [
+    "max-image-preview:large"
+   ],
+   "canonical": [
+    "http://7bar.local/product/ornare-arcudui-vivamus-arcu-felis-bibendum/"
+   ],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "product",
+    "og:title": "Three Backpack Selection | Rovakivo",
+    "og:description": "Compare three Rovakivo backpacks and add any combination to your cart: Charcoal Buckle, Forest Green Travel and Charcoal &amp; Tan Travel.",
+    "og:url": "http://7bar.local/product/ornare-arcudui-vivamus-arcu-felis-bibendum/",
+    "og:image": "http://7bar.local/wp-content/uploads/2020/03/haupes-co-LhTPg9gwxzs-unsplash-768x1024.jpg",
+    "og:image:width": "768",
+    "og:image:height": "1024",
+    "og:image:alt": "Black backpack with tan straps and trim, standing on a wooden desk beside a vintage camera.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Three Backpack Selection | Rovakivo",
+    "twitter:description": "Compare three Rovakivo backpacks and add any combination to your cart: Charcoal Buckle, Forest Green Travel and Charcoal &amp; Tan Travel.",
+    "twitter:image": "http://7bar.local/wp-content/uploads/2020/03/haupes-co-LhTPg9gwxzs-unsplash-768x1024.jpg",
+    "twitter:image:alt": "Black backpack with tan straps and trim, standing on a wooden desk beside a vintage camera."
+   },
+   "h1": [
+    "Three Backpack Selection"
+   ],
+   "icons": 6,
+   "jsonld": 1
+  },
+  "/product/libero-faucibus-nistincidunt/": {
+   "status": 200,
+   "location": null,
+   "title": "Green Zip Backpack | Rovakivo",
+   "description": [
+    "Green backpack with a zipped front pocket, a buckled top strap and dark trim. A relaxed, versatile everyday bag from Rovakivo."
+   ],
+   "robots": [
+    "max-image-preview:large"
+   ],
+   "canonical": [
+    "http://7bar.local/product/libero-faucibus-nistincidunt/"
+   ],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "product",
+    "og:title": "Green Zip Backpack | Rovakivo",
+    "og:description": "Green backpack with a zipped front pocket, a buckled top strap and dark trim. A relaxed, versatile everyday bag from Rovakivo.",
+    "og:url": "http://7bar.local/product/libero-faucibus-nistincidunt/",
+    "og:image": "http://7bar.local/wp-content/uploads/2020/03/haupes-co-6hpJZcqWt4I-unsplash-768x1024.jpg",
+    "og:image:width": "768",
+    "og:image:height": "1024",
+    "og:image:alt": "Green backpack with a zipped front pocket and a dark buckled strap, standing against a white wooden wall beside tools.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Green Zip Backpack | Rovakivo",
+    "twitter:description": "Green backpack with a zipped front pocket, a buckled top strap and dark trim. A relaxed, versatile everyday bag from Rovakivo.",
+    "twitter:image": "http://7bar.local/wp-content/uploads/2020/03/haupes-co-6hpJZcqWt4I-unsplash-768x1024.jpg",
+    "twitter:image:alt": "Green backpack with a zipped front pocket and a dark buckled strap, standing against a white wooden wall beside tools."
+   },
+   "h1": [
+    "Green Zip Backpack"
+   ],
+   "icons": 6,
+   "jsonld": 1
+  },
+  "/product/donec-ultrices-tincidunt-arcu-non-sodales/": {
+   "status": 200,
+   "location": null,
+   "title": "Black Everyday Backpack | Rovakivo",
+   "description": [
+    "Sleek black backpack with white printed lettering and a small red accent. An understated everyday bag for school, work and errands."
+   ],
+   "robots": [
+    "max-image-preview:large"
+   ],
+   "canonical": [
+    "http://7bar.local/product/donec-ultrices-tincidunt-arcu-non-sodales/"
+   ],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "product",
+    "og:title": "Black Everyday Backpack | Rovakivo",
+    "og:description": "Sleek black backpack with white printed lettering and a small red accent. An understated everyday bag for school, work and errands.",
+    "og:url": "http://7bar.local/product/donec-ultrices-tincidunt-arcu-non-sodales/",
+    "og:image": "http://7bar.local/wp-content/uploads/2020/03/joshua-fuller-2xAaR_xDCPY-unsplash-768x1024.jpg",
+    "og:image:width": "768",
+    "og:image:height": "1024",
+    "og:image:alt": "Black backpack with white printed lettering and a small red detail, held up by its top handle in front of green plants.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Black Everyday Backpack | Rovakivo",
+    "twitter:description": "Sleek black backpack with white printed lettering and a small red accent. An understated everyday bag for school, work and errands.",
+    "twitter:image": "http://7bar.local/wp-content/uploads/2020/03/joshua-fuller-2xAaR_xDCPY-unsplash-768x1024.jpg",
+    "twitter:image:alt": "Black backpack with white printed lettering and a small red detail, held up by its top handle in front of green plants."
+   },
+   "h1": [
+    "Black Everyday Backpack"
+   ],
+   "icons": 6,
+   "jsonld": 1
+  },
+  "/product/vestibulum-sedarcu-nonodio-euismod/": {
+   "status": 200,
+   "location": null,
+   "title": "Black Travel Backpack | Rovakivo",
+   "description": [
+    "Soft black backpack with a relaxed shape, a top handle and a small tan patch. A low-key companion for day trips and weekends away."
+   ],
+   "robots": [
+    "max-image-preview:large"
+   ],
+   "canonical": [
+    "http://7bar.local/product/vestibulum-sedarcu-nonodio-euismod/"
+   ],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "product",
+    "og:title": "Black Travel Backpack | Rovakivo",
+    "og:description": "Soft black backpack with a relaxed shape, a top handle and a small tan patch. A low-key companion for day trips and weekends away.",
+    "og:url": "http://7bar.local/product/vestibulum-sedarcu-nonodio-euismod/",
+    "og:image": "http://7bar.local/wp-content/uploads/2020/03/linus-rogge-SO-4BNfONaU-unsplash-768x1024.jpg",
+    "og:image:width": "768",
+    "og:image:height": "1024",
+    "og:image:alt": "Black backpack with a small tan patch on the front, hanging from a white chair.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Black Travel Backpack | Rovakivo",
+    "twitter:description": "Soft black backpack with a relaxed shape, a top handle and a small tan patch. A low-key companion for day trips and weekends away.",
+    "twitter:image": "http://7bar.local/wp-content/uploads/2020/03/linus-rogge-SO-4BNfONaU-unsplash-768x1024.jpg",
+    "twitter:image:alt": "Black backpack with a small tan patch on the front, hanging from a white chair."
+   },
+   "h1": [
+    "Black Travel Backpack"
+   ],
+   "icons": 6,
+   "jsonld": 1
+  },
+  "/product/ornare-arcu-odio-utsem-nullapharetra-diam/": {
+   "status": 200,
+   "location": null,
+   "title": "Charcoal & Tan Travel Backpack | Rovakivo",
+   "description": [
+    "Dark charcoal backpack with tan straps and trim and a buckled front flap. Classic styling for weekends away and days on the move."
+   ],
+   "robots": [
+    "max-image-preview:large"
+   ],
+   "canonical": [
+    "http://7bar.local/product/ornare-arcu-odio-utsem-nullapharetra-diam/"
+   ],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "product",
+    "og:title": "Charcoal &amp; Tan Travel Backpack | Rovakivo",
+    "og:description": "Dark charcoal backpack with tan straps and trim and a buckled front flap. Classic styling for weekends away and days on the move.",
+    "og:url": "http://7bar.local/product/ornare-arcu-odio-utsem-nullapharetra-diam/",
+    "og:image": "http://7bar.local/wp-content/uploads/2020/03/cynthia-del-rio-HM599jibAQs-unsplash-768x1024.jpg",
+    "og:image:width": "768",
+    "og:image:height": "1024",
+    "og:image:alt": "Dark charcoal backpack with tan straps and trim, laid on a black surface with a notebook and a wristwatch.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Charcoal &amp; Tan Travel Backpack | Rovakivo",
+    "twitter:description": "Dark charcoal backpack with tan straps and trim and a buckled front flap. Classic styling for weekends away and days on the move.",
+    "twitter:image": "http://7bar.local/wp-content/uploads/2020/03/cynthia-del-rio-HM599jibAQs-unsplash-768x1024.jpg",
+    "twitter:image:alt": "Dark charcoal backpack with tan straps and trim, laid on a black surface with a notebook and a wristwatch."
+   },
+   "h1": [
+    "Charcoal &amp; Tan Travel Backpack"
+   ],
+   "icons": 6,
+   "jsonld": 1
+  },
+  "/product/eleifend-donec-pretium-vulputate-sapien-sagittis/": {
+   "status": 200,
+   "location": null,
+   "title": "Minimal Zip Backpack | Rovakivo",
+   "description": [
+    "Minimal backpack with a zipped front pocket and a top handle, in black or grey. An understated bag for the commute and trips away."
+   ],
+   "robots": [
+    "max-image-preview:large"
+   ],
+   "canonical": [
+    "http://7bar.local/product/eleifend-donec-pretium-vulputate-sapien-sagittis/"
+   ],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "product",
+    "og:title": "Minimal Zip Backpack | Rovakivo",
+    "og:description": "Minimal backpack with a zipped front pocket and a top handle, in black or grey. An understated bag for the commute and trips away.",
+    "og:url": "http://7bar.local/product/eleifend-donec-pretium-vulputate-sapien-sagittis/",
+    "og:image": "http://7bar.local/wp-content/uploads/2020/03/daniel-lincoln-dp75uo9Qflo-unsplash-768x1024.jpg",
+    "og:image:width": "768",
+    "og:image:height": "1024",
+    "og:image:alt": "Black backpack lying on snow.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Minimal Zip Backpack | Rovakivo",
+    "twitter:description": "Minimal backpack with a zipped front pocket and a top handle, in black or grey. An understated bag for the commute and trips away.",
+    "twitter:image": "http://7bar.local/wp-content/uploads/2020/03/daniel-lincoln-dp75uo9Qflo-unsplash-768x1024.jpg",
+    "twitter:image:alt": "Black backpack lying on snow."
+   },
+   "h1": [
+    "Minimal Zip Backpack"
+   ],
+   "icons": 6,
+   "jsonld": 1
+  },
+  "/product/rhoncus-aenean-velelit-scelerisque-mauris/": {
+   "status": 200,
+   "location": null,
+   "title": "Red Roll-Top Backpack | Rovakivo",
+   "description": [
+    "Bright red roll-top style backpack with a grey centre strap and a round tan clasp. A bold bag for everyday use and time outdoors."
+   ],
+   "robots": [
+    "max-image-preview:large"
+   ],
+   "canonical": [
+    "http://7bar.local/product/rhoncus-aenean-velelit-scelerisque-mauris/"
+   ],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "product",
+    "og:title": "Red Roll-Top Backpack | Rovakivo",
+    "og:description": "Bright red roll-top style backpack with a grey centre strap and a round tan clasp. A bold bag for everyday use and time outdoors.",
+    "og:url": "http://7bar.local/product/rhoncus-aenean-velelit-scelerisque-mauris/",
+    "og:image": "http://7bar.local/wp-content/uploads/2020/03/daniel-j-schwarz-Ccw6ZV2NT0M-unsplash-768x1024.jpg",
+    "og:image:width": "768",
+    "og:image:height": "1024",
+    "og:image:alt": "Red roll-top backpack with a grey strap and a round tan clasp on a dark wooden table.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Red Roll-Top Backpack | Rovakivo",
+    "twitter:description": "Bright red roll-top style backpack with a grey centre strap and a round tan clasp. A bold bag for everyday use and time outdoors.",
+    "twitter:image": "http://7bar.local/wp-content/uploads/2020/03/daniel-j-schwarz-Ccw6ZV2NT0M-unsplash-768x1024.jpg",
+    "twitter:image:alt": "Red roll-top backpack with a grey strap and a round tan clasp on a dark wooden table."
+   },
+   "h1": [
+    "Red Roll-Top Backpack"
+   ],
+   "icons": 6,
+   "jsonld": 1
+  },
+  "/product/tellus-molestie-nuncnon-blandit/": {
+   "status": 200,
+   "location": null,
+   "title": "White Printed Flap Backpack | Rovakivo",
+   "description": [
+    "White backpack with an all-over black illustrated print, tan straps and orange trim. A playful bag for holidays, city trips and weekends."
+   ],
+   "robots": [
+    "max-image-preview:large"
+   ],
+   "canonical": [
+    "http://7bar.local/product/tellus-molestie-nuncnon-blandit/"
+   ],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "product",
+    "og:title": "White Printed Flap Backpack | Rovakivo",
+    "og:description": "White backpack with an all-over black illustrated print, tan straps and orange trim. A playful bag for holidays, city trips and weekends.",
+    "og:url": "http://7bar.local/product/tellus-molestie-nuncnon-blandit/",
+    "og:image": "http://7bar.local/wp-content/uploads/2020/03/cynthia-del-rio-tJWUHtIDzWs-unsplash-768x1024.jpg",
+    "og:image:width": "768",
+    "og:image:height": "1024",
+    "og:image:alt": "White backpack with a black illustrated print, tan straps and orange trim, lying on white bedding.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "White Printed Flap Backpack | Rovakivo",
+    "twitter:description": "White backpack with an all-over black illustrated print, tan straps and orange trim. A playful bag for holidays, city trips and weekends.",
+    "twitter:image": "http://7bar.local/wp-content/uploads/2020/03/cynthia-del-rio-tJWUHtIDzWs-unsplash-768x1024.jpg",
+    "twitter:image:alt": "White backpack with a black illustrated print, tan straps and orange trim, lying on white bedding."
+   },
+   "h1": [
+    "White Printed Flap Backpack"
+   ],
+   "icons": 6,
+   "jsonld": 1
+  },
+  "/my-account/orders/": {
+   "status": 200,
+   "location": null,
+   "title": "Sign In | Rovakivo",
+   "description": [
+    "For every day. For wherever’s next."
+   ],
+   "robots": [
+    "max-image-preview:large, noindex, follow"
+   ],
+   "canonical": [
+    "http://7bar.local/my-account/"
+   ],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "website",
+    "og:title": "Sign In | Rovakivo",
+    "og:description": "For every day. For wherever’s next.",
+    "og:url": "http://7bar.local/my-account/",
+    "og:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "og:image:width": "1200",
+    "og:image:height": "630",
+    "og:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Sign In | Rovakivo",
+    "twitter:description": "For every day. For wherever’s next.",
+    "twitter:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "twitter:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors."
+   },
+   "h1": [
+    "Sign in"
+   ],
+   "icons": 6,
+   "jsonld": 0
+  },
+  "/?s=green&": {
+   "status": 200,
+   "location": null,
+   "title": "Search Results for &#8220;green&#8221; | Rovakivo",
+   "description": [
+    "For every day. For wherever’s next."
+   ],
+   "robots": [
+    "noindex, follow, max-image-preview:large"
+   ],
+   "canonical": [],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "website",
+    "og:title": "Search Results for &#8220;green&#8221; | Rovakivo",
+    "og:description": "For every day. For wherever’s next.",
+    "og:url": "http://7bar.local/?s=green",
+    "og:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "og:image:width": "1200",
+    "og:image:height": "630",
+    "og:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Search Results for &#8220;green&#8221; | Rovakivo",
+    "twitter:description": "For every day. For wherever’s next.",
+    "twitter:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "twitter:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors."
+   },
+   "h1": [
+    "Results for “green”"
+   ],
+   "icons": 6,
+   "jsonld": 0
+  },
+  "/product-category/casual/?on_sale=1": {
+   "status": 200,
+   "location": null,
+   "title": "Casual on Sale | Rovakivo",
+   "description": [
+    "Casual backpacks from Rovakivo for commutes, errands and the daily routine, in easy shapes and colours that work with what you already wear."
+   ],
+   "robots": [
+    "max-image-preview:large, noindex, follow"
+   ],
+   "canonical": [],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "website",
+    "og:title": "Casual on Sale | Rovakivo",
+    "og:description": "Casual backpacks from Rovakivo for commutes, errands and the daily routine, in easy shapes and colours that work with what you already wear.",
+    "og:url": "http://7bar.local/product-category/casual/?on_sale=1",
+    "og:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "og:image:width": "1200",
+    "og:image:height": "630",
+    "og:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Casual on Sale | Rovakivo",
+    "twitter:description": "Casual backpacks from Rovakivo for commutes, errands and the daily routine, in easy shapes and colours that work with what you already wear.",
+    "twitter:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "twitter:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors."
+   },
+   "h1": [
+    "Casual backpacks."
+   ],
+   "icons": 6,
+   "jsonld": 0
+  },
+  "/product-category/travel/?on_sale=1": {
+   "status": 200,
+   "location": null,
+   "title": "Travel on Sale | Rovakivo",
+   "description": [
+    "Travel backpacks from Rovakivo for city breaks, weekends away and longer trips, in classic shapes and colours."
+   ],
+   "robots": [
+    "max-image-preview:large, noindex, follow"
+   ],
+   "canonical": [],
+   "og": {
+    "og:site_name": "Rovakivo",
+    "og:type": "website",
+    "og:title": "Travel on Sale | Rovakivo",
+    "og:description": "Travel backpacks from Rovakivo for city breaks, weekends away and longer trips, in classic shapes and colours.",
+    "og:url": "http://7bar.local/product-category/travel/?on_sale=1",
+    "og:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "og:image:width": "1200",
+    "og:image:height": "630",
+    "og:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors.",
+    "og:locale": "en_US",
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Travel on Sale | Rovakivo",
+    "twitter:description": "Travel backpacks from Rovakivo for city breaks, weekends away and longer trips, in classic shapes and colours.",
+    "twitter:image": "http://7bar.local/wp-content/plugins/7bar-homepage/assets/img/share-default.jpg",
+    "twitter:image:alt": "Rovakivo: bags and backpacks for every day, travel and time outdoors."
+   },
+   "h1": [
+    "Travel backpacks."
+   ],
+   "icons": 6,
+   "jsonld": 0
+  },
+  "/shop/?on_sale=1&": {
+   "status": 301,
+   "location": "http://7bar.local/shop/?on_sale=1",
+   "title": null,
+   "description": null,
+   "robots": null,
+   "canonical": [],
+   "og": {},
+   "h1": [],
+   "icons": 0,
+   "jsonld": 0
+  },
+  "/?post_type=product&": {
+   "status": 301,
+   "location": "http://7bar.local/?post_type=product",
+   "title": null,
+   "description": null,
+   "robots": null,
+   "canonical": [],
+   "og": {},
+   "h1": [],
+   "icons": 0,
+   "jsonld": 0
+  },
+  "/product-category/casual/?on_sale=1&": {
+   "status": 301,
+   "location": "http://7bar.local/product-category/casual/?on_sale=1",
+   "title": null,
+   "description": null,
+   "robots": null,
+   "canonical": [],
+   "og": {},
+   "h1": [],
+   "icons": 0,
+   "jsonld": 0
+  },
+  "/product-category/travel/?on_sale=1&": {
+   "status": 301,
+   "location": "http://7bar.local/product-category/travel/?on_sale=1",
+   "title": null,
+   "description": null,
+   "robots": null,
+   "canonical": [],
+   "og": {},
+   "h1": [],
+   "icons": 0,
+   "jsonld": 0
+  }
+ },
+ "external": {}
+}

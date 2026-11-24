@@ -1,0 +1,52 @@
+[mysqld]
+{{#unless os.windows}}
+skip-name-resolve
+{{/unless}}
+
+{{#if disableMysqlx}}
+mysqlx = 0
+{{/if}}
+
+datadir = {{datadir}}
+port = {{port}}
+bind-address = {{bindAddress}}
+socket = {{socket}}
+
+{{#if os.windows}}
+console
+{{/if}}
+
+# Older PHP/client compatibility
+character-set-server = utf8mb3
+default_authentication_plugin = mysql_native_password
+
+# Fine Tuning
+performance_schema = off
+max_allowed_packet = 16M
+thread_stack = 192K
+thread_cache_size = 8
+
+# InnoDB
+# Rovakivo (2026-11-25): Local stops MySQL by killing the process, so every start is a crash recovery.
+# With the 32 MB pool and binary logging, that took 20-40 s, longer than Local waits (about 20 s), so
+# Local showed "Unable to start site" once or twice before the site came up. A 128 MB pool makes the
+# recovery faster. Original settings: backups\mysql-settings-before-2026-11-25\.
+innodb_buffer_pool_size = 128M
+# Redo log: Local's innodb_log_file_size = 96M meant 192 MB of redo in 32 files, and InnoDB rewrote the
+# ~186 MB of spare files at every start (about 10 s here). 32 MB is plenty for a local shop and also
+# shortens recovery after a kill. (When this is set, innodb_log_file_size is ignored, so it is removed.)
+innodb_redo_log_capacity = 32M
+
+# Binary log: only for replication/point-in-time restore, which a local site never uses. With it on,
+# every start also re-read the newest binlog (XA recovery) and every database write was logged twice.
+skip-log-bin
+
+[client]
+{{#unless os.windows}}
+socket = {{socket}}
+{{else}}
+host = {{clientAddress}}
+port = {{port}}
+{{/unless}}
+user = root
+password = root

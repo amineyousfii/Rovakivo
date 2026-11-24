@@ -1,0 +1,1246 @@
+{
+ "pages": {
+  "/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Rovakivo | Bags and backpacks for every day, travel and time outdoors",
+   "description": [
+    "Discover Rovakivo bags and backpacks for daily routines, travel plans and time outdoors. Shop casual and travel backpacks."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2026/11/social-share-default.jpg"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "Carry your day.Explore what’s next."
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 78,
+   "noAlt": []
+  },
+  "/shop/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "All Bags &amp; Backpacks | Rovakivo",
+   "description": [
+    "Shop Rovakivo bags and backpacks for daily routines, travel plans and time outdoors. Casual and travel collections, with current offers."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/shop/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2026/11/social-share-default.jpg"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "All bags &amp; backpacks."
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 88,
+   "noAlt": []
+  },
+  "/cart/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Your Cart | Rovakivo",
+   "description": null,
+   "robots": [
+    "noindex, follow"
+   ],
+   "canonical": [],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2026/11/social-share-default.jpg"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "Your cart"
+   ],
+   "jsonld": [
+    "WebPage,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 57,
+   "noAlt": []
+  },
+  "/checkout/": {
+   "status": 302,
+   "location": "http://7bar.local/cart/",
+   "type": "text/html",
+   "title": null,
+   "description": null,
+   "robots": null,
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [],
+   "jsonld": [],
+   "absLocalLinks": 0,
+   "noAlt": []
+  },
+  "/my-account/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "My Account | Rovakivo",
+   "description": null,
+   "robots": [
+    "noindex, follow"
+   ],
+   "canonical": [],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2026/11/social-share-default.jpg"
+   ],
+   "ogDesc": 0,
+   "h1": [
+    "Sign in"
+   ],
+   "jsonld": [
+    "WebPage,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 57,
+   "noAlt": []
+  },
+  "/my-account/lost-password/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "My Account | Rovakivo",
+   "description": null,
+   "robots": [
+    "noindex, follow"
+   ],
+   "canonical": [],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2026/11/social-share-default.jpg"
+   ],
+   "ogDesc": 0,
+   "h1": [
+    "Reset your password"
+   ],
+   "jsonld": [
+    "WebPage,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 57,
+   "noAlt": []
+  },
+  "/about/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "About | Rovakivo",
+   "description": [
+    "Rovakivo is an online shop for bags and backpacks for the daily commute, trips away and time spent outdoors."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/about/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2026/11/about-section-hero-scaled.jpg"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "For every day.For wherever’s next."
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 59,
+   "noAlt": []
+  },
+  "/contact/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Contact | Rovakivo",
+   "description": [
+    "Questions about a bag, an order or your account? Send Rovakivo a message and we’ll reply by email."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/contact/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2026/11/social-share-default.jpg"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "Contact us."
+   ],
+   "jsonld": [
+    "WebPage,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 61,
+   "noAlt": []
+  },
+  "/privacy-policy-2/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Privacy Policy | Rovakivo",
+   "description": [
+    "How the Rovakivo website uses the information you share when you order, sign up for the newsletter or send a message."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/privacy-policy-2/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2026/11/social-share-default.jpg"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "Privacy Policy"
+   ],
+   "jsonld": [
+    "WebPage,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 57,
+   "noAlt": []
+  },
+  "/shop/?on_sale=1": {
+   "status": 200,
+   "type": "text/html",
+   "title": "All Bags &amp; Backpacks | Rovakivo",
+   "description": [
+    "Shop Rovakivo bags and backpacks for daily routines, travel plans and time outdoors. Casual and travel collections, with current offers."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/shop/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2026/11/social-share-default.jpg"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "The sale edit."
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 73,
+   "noAlt": []
+  },
+  "/?s=green&post_type=product": {
+   "status": 200,
+   "type": "text/html",
+   "title": "You searched for green | Rovakivo",
+   "description": null,
+   "robots": [
+    "noindex, follow"
+   ],
+   "canonical": [],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2026/11/social-share-default.jpg"
+   ],
+   "ogDesc": 0,
+   "h1": [
+    "Results for “green”"
+   ],
+   "jsonld": [
+    "CollectionPage,SearchResultsPage,ImageObject,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 69,
+   "noAlt": []
+  },
+  "/this-page-does-not-exist-404-test/": {
+   "status": 404,
+   "type": "text/html",
+   "title": "Page not found | Rovakivo",
+   "description": null,
+   "robots": [
+    "noindex, follow"
+   ],
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "This trail doesn’t lead anywhere."
+   ],
+   "jsonld": [
+    "WebSite,Organization"
+   ],
+   "absLocalLinks": 52,
+   "noAlt": []
+  },
+  "/robots.txt": {
+   "status": 200,
+   "type": "text/plain",
+   "text": "User-agent: *\r\nDisallow: /wp-content/uploads/wc-logs/\r\nDisallow: /wp-content/uploads/woocommerce_transient_files/\r\nDisallow: /wp-content/uploads/woocommerce_uploads/\r\nDisallow: /*?add-to-cart=\r\nDisallow: /*?*add-to-cart=\r\nDisallow: /wp-admin/\r\nAllow: /wp-admin/admin-ajax.php\r\n\r\n# START YOAST BLOCK\r\n# ---------------------------\r\nUser-agent: *\r\nDisallow:\r\n\r\nSitemap: http://7bar.local/sitemap_index."
+  },
+  "/sitemap_index.xml": {
+   "status": 200,
+   "type": "text/xml",
+   "locs": [
+    "http://7bar.local/page-sitemap.xml",
+    "http://7bar.local/product-sitemap.xml",
+    "http://7bar.local/product_cat-sitemap.xml"
+   ]
+  },
+  "/wp-sitemap.xml": {
+   "status": 301,
+   "location": "http://7bar.local/sitemap_index.xml",
+   "type": "text/html",
+   "title": null,
+   "description": null,
+   "robots": null,
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [],
+   "jsonld": [],
+   "absLocalLinks": 0,
+   "noAlt": []
+  },
+  "/author/amine/": {
+   "status": 404,
+   "type": "text/html",
+   "title": "Page not found | Rovakivo",
+   "description": null,
+   "robots": [
+    "noindex, follow"
+   ],
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "This trail doesn’t lead anywhere."
+   ],
+   "jsonld": [
+    "WebSite,Organization"
+   ],
+   "absLocalLinks": 52,
+   "noAlt": []
+  },
+  "/terms/": {
+   "status": 404,
+   "type": "text/html",
+   "title": "Page not found | Rovakivo",
+   "description": null,
+   "robots": [
+    "noindex, follow"
+   ],
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "This trail doesn’t lead anywhere."
+   ],
+   "jsonld": [
+    "WebSite,Organization"
+   ],
+   "absLocalLinks": 52,
+   "noAlt": []
+  },
+  "/shipping/": {
+   "status": 404,
+   "type": "text/html",
+   "title": "Page not found | Rovakivo",
+   "description": null,
+   "robots": [
+    "noindex, follow"
+   ],
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "This trail doesn’t lead anywhere."
+   ],
+   "jsonld": [
+    "WebSite,Organization"
+   ],
+   "absLocalLinks": 52,
+   "noAlt": []
+  },
+  "/returns/": {
+   "status": 404,
+   "type": "text/html",
+   "title": "Page not found | Rovakivo",
+   "description": null,
+   "robots": [
+    "noindex, follow"
+   ],
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "This trail doesn’t lead anywhere."
+   ],
+   "jsonld": [
+    "WebSite,Organization"
+   ],
+   "absLocalLinks": 52,
+   "noAlt": []
+  },
+  "/sale/": {
+   "status": 302,
+   "location": "http://7bar.local/shop/?on_sale=1",
+   "type": "text/html",
+   "title": null,
+   "description": null,
+   "robots": null,
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [],
+   "jsonld": [],
+   "absLocalLinks": 0,
+   "noAlt": []
+  },
+  "/?p=1": {
+   "status": 404,
+   "type": "text/html",
+   "title": "Page not found | Rovakivo",
+   "description": null,
+   "robots": [
+    "noindex, follow"
+   ],
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [
+    "This trail doesn’t lead anywhere."
+   ],
+   "jsonld": [
+    "WebSite,Organization"
+   ],
+   "absLocalLinks": 52,
+   "noAlt": []
+  },
+  "/feed/": {
+   "status": 200,
+   "type": "application/rss+xml",
+   "locs": []
+  },
+  "/product-category/casual/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Casual Backpacks | Rovakivo",
+   "description": [
+    "Casual backpacks from Rovakivo for commutes, errands and the daily routine, in easy shapes and colours that work with what you already wear."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/product-category/casual/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2026/11/social-share-default.jpg"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "Casual backpacks."
+   ],
+   "jsonld": [
+    "CollectionPage,ImageObject,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 83,
+   "noAlt": []
+  },
+  "/product-category/travel/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Travel Backpacks | Rovakivo",
+   "description": [
+    "Travel backpacks from Rovakivo for city breaks, weekends away and longer trips, in classic shapes and colours."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/product-category/travel/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2026/11/social-share-default.jpg"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "Travel backpacks."
+   ],
+   "jsonld": [
+    "CollectionPage,ImageObject,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 79,
+   "noAlt": []
+  },
+  "/product/olive-everyday-backpack/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Olive Everyday Backpack | Rovakivo",
+   "description": [
+    "Olive backpack with dark contrast straps, a buckled top flap and two front pockets. An everyday backpack for commutes, errands and weekends."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/product/olive-everyday-backpack/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2020/03/backpack-19.jpg"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "Olive Everyday Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 71,
+   "noAlt": []
+  },
+  "/product/brown-flap-backpack/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Brown Flap Backpack | Rovakivo",
+   "description": [
+    "Warm brown backpack with a darker brown top flap, a front pocket and a round button detail. Simple, everyday style from Rovakivo."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/product/brown-flap-backpack/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2020/03/backpack-21.jpg"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "Brown Flap Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 71,
+   "noAlt": []
+  },
+  "/product/charcoal-buckle-backpack/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Charcoal Buckle Backpack | Rovakivo",
+   "description": [
+    "Structured charcoal backpack with a grey top flap, tan buckle tabs and an orange stripe. A clean, modern bag for the daily routine."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/product/charcoal-buckle-backpack/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2020/03/backpack-20.jpg"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "Charcoal Buckle Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 72,
+   "noAlt": []
+  },
+  "/product/forest-green-travel-backpack/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Forest Green Travel Backpack | Rovakivo",
+   "description": [
+    "Tall forest-green backpack with a brown base, long brown straps and diamond strap details. Classic styling for weekends away and longer trips."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/product/forest-green-travel-backpack/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2020/03/backpack-3.webp"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "Forest Green Travel Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 71,
+   "noAlt": []
+  },
+  "/product/three-backpack-selection/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Three Backpack Selection | Rovakivo",
+   "description": [
+    "Compare three Rovakivo backpacks and add any combination to your cart: Charcoal Buckle, Forest Green Travel and Charcoal &amp; Tan Travel."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/product/three-backpack-selection/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2020/03/backpack-13.jpg"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "Three Backpack Selection"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 74,
+   "noAlt": []
+  },
+  "/product/green-zip-backpack/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Green Zip Backpack | Rovakivo",
+   "description": [
+    "Green backpack with a zipped front pocket, a buckled top strap and dark trim. A relaxed, versatile everyday bag from Rovakivo."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/product/green-zip-backpack/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2020/03/backpack-14.jpg"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "Green Zip Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 71,
+   "noAlt": []
+  },
+  "/product/black-everyday-backpack/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Black Everyday Backpack | Rovakivo",
+   "description": [
+    "Sleek black backpack with white printed lettering and a small red accent. An understated everyday bag for school, work and errands."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/product/black-everyday-backpack/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2020/03/backpack-11.jpg"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "Black Everyday Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 72,
+   "noAlt": []
+  },
+  "/product/black-travel-backpack/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Black Travel Backpack | Rovakivo",
+   "description": [
+    "Soft black backpack with a relaxed shape, a top handle and a small tan patch. A low-key companion for day trips and weekends away."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/product/black-travel-backpack/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2020/03/backpack-12.jpg"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "Black Travel Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 72,
+   "noAlt": []
+  },
+  "/product/alpine-blue-trekking-backpack/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Alpine Blue Trekking Backpack | Rovakivo",
+   "description": [
+    "Tall blue trekking backpack with red accents and external straps. Made for long weekends in the mountains and adventurous holidays."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/product/alpine-blue-trekking-backpack/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2026/11/backpack-28.jpg"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "Alpine Blue Trekking Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 71,
+   "noAlt": []
+  },
+  "/product/black-orange-commuter-backpack/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Black &amp; Orange Commuter Backpack | Rovakivo",
+   "description": [
+    "Black backpack with grey panels, orange zip accents and several zipped compartments. A practical everyday bag for commutes and school."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/product/black-orange-commuter-backpack/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2026/11/backpack-24-scaled.jpg"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "Black &amp; Orange Commuter Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 72,
+   "noAlt": []
+  },
+  "/product/charcoal-tan-travel-backpack/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Charcoal &amp; Tan Travel Backpack | Rovakivo",
+   "description": [
+    "Dark charcoal backpack with tan straps and trim and a buckled front flap. Classic styling for weekends away and days on the move."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/product/charcoal-tan-travel-backpack/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2020/03/backpack-2.webp"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "Charcoal &amp; Tan Travel Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 71,
+   "noAlt": []
+  },
+  "/product/evergreen-trek-backpack/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Evergreen Trek Backpack | Rovakivo",
+   "description": [
+    "Tall evergreen backpack with mustard-yellow straps and a domed top lid. A standout pack for lakeside weekends and long days outdoors."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/product/evergreen-trek-backpack/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2026/11/backpack-26-scaled.jpg"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "Evergreen Trek Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 72,
+   "noAlt": []
+  },
+  "/product/heather-grey-city-backpack/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Heather Grey City Backpack | Rovakivo",
+   "description": [
+    "Heather-grey backpack with a rounded shape, silver-tone zips and a zipped front pocket. Quietly smart for study, work and errands."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/product/heather-grey-city-backpack/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2026/11/backpack-23-scaled.jpg"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "Heather Grey City Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 71,
+   "noAlt": []
+  },
+  "/product/minimal-zip-backpack/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Minimal Zip Backpack | Rovakivo",
+   "description": [
+    "Minimal backpack with a zipped front pocket and a top handle, in black or grey. An understated bag for the commute and trips away."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/product/minimal-zip-backpack/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2020/03/backpack-15.jpg"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "Minimal Zip Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 71,
+   "noAlt": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "/shop/page/2/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "All Bags &amp; Backpacks | Rovakivo",
+   "description": [
+    "Shop Rovakivo bags and backpacks for daily routines, travel plans and time outdoors. Casual and travel collections, with current offers."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/shop/page/2/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2026/11/social-share-default.jpg"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "All bags &amp; backpacks."
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,WebSite,Organization"
+   ],
+   "absLocalLinks": 77,
+   "noAlt": []
+  },
+  "/my-account/orders/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "My Account | Rovakivo",
+   "description": null,
+   "robots": [
+    "noindex, follow"
+   ],
+   "canonical": [],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2026/11/social-share-default.jpg"
+   ],
+   "ogDesc": 0,
+   "h1": [
+    "Sign in"
+   ],
+   "jsonld": [
+    "WebPage,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 57,
+   "noAlt": []
+  },
+  "/product-category/casual/?on_sale=1": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Casual Backpacks | Rovakivo",
+   "description": [
+    "Casual backpacks from Rovakivo for commutes, errands and the daily routine, in easy shapes and colours that work with what you already wear."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/product-category/casual/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2026/11/social-share-default.jpg"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "Casual backpacks."
+   ],
+   "jsonld": [
+    "CollectionPage,ImageObject,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 73,
+   "noAlt": []
+  },
+  "/product-category/travel/?on_sale=1": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Travel Backpacks | Rovakivo",
+   "description": [
+    "Travel backpacks from Rovakivo for city breaks, weekends away and longer trips, in classic shapes and colours."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/product-category/travel/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2026/11/social-share-default.jpg"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "Travel backpacks."
+   ],
+   "jsonld": [
+    "CollectionPage,ImageObject,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 69,
+   "noAlt": []
+  },
+  "/shop/?on_sale=1&": {
+   "status": 301,
+   "location": "http://7bar.local/shop/?on_sale=1",
+   "type": "text/html",
+   "title": null,
+   "description": null,
+   "robots": null,
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [],
+   "jsonld": [],
+   "absLocalLinks": 0,
+   "noAlt": []
+  },
+  "/?s=green&": {
+   "status": 200,
+   "type": "text/html",
+   "title": "You searched for green | Rovakivo",
+   "description": null,
+   "robots": [
+    "noindex, follow"
+   ],
+   "canonical": [],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2026/11/social-share-default.jpg"
+   ],
+   "ogDesc": 0,
+   "h1": [
+    "Results for “green”"
+   ],
+   "jsonld": [
+    "CollectionPage,SearchResultsPage,ImageObject,BreadcrumbList,WebSite,Organization"
+   ],
+   "absLocalLinks": 67,
+   "noAlt": []
+  },
+  "/page-sitemap.xml": {
+   "status": 200,
+   "type": "text/xml",
+   "locs": [
+    "http://7bar.local/",
+    "http://7bar.local/privacy-policy-2/",
+    "http://7bar.local/contact/",
+    "http://7bar.local/shop/",
+    "http://7bar.local/about/"
+   ]
+  },
+  "/product-sitemap.xml": {
+   "status": 200,
+   "type": "text/xml",
+   "locs": [
+    "http://7bar.local/shop/",
+    "http://7bar.local/product/onyx-double-zip-backpack/",
+    "http://7bar.local/product/heather-grey-city-backpack/",
+    "http://7bar.local/product/black-orange-commuter-backpack/",
+    "http://7bar.local/product/orange-trail-daypack/",
+    "http://7bar.local/product/evergreen-trek-backpack/",
+    "http://7bar.local/product/alpine-blue-trekking-backpack/",
+    "http://7bar.local/product/white-printed-flap-backpack/",
+    "http://7bar.local/product/charcoal-tan-travel-backpack/",
+    "http://7bar.local/product/forest-green-travel-backpack/",
+    "http://7bar.local/product/red-roll-top-backpack/",
+    "http://7bar.local/product/black-everyday-backpack/",
+    "http://7bar.local/product/black-travel-backpack/",
+    "http://7bar.local/product/three-backpack-selection/",
+    "http://7bar.local/product/green-zip-backpack/",
+    "http://7bar.local/product/minimal-zip-backpack/",
+    "http://7bar.local/product/olive-everyday-backpack/",
+    "http://7bar.local/product/charcoal-buckle-backpack/",
+    "http://7bar.local/product/brown-flap-backpack/"
+   ]
+  },
+  "/product_cat-sitemap.xml": {
+   "status": 200,
+   "type": "text/xml",
+   "locs": [
+    "http://7bar.local/product-category/casual/",
+    "http://7bar.local/product-category/travel/"
+   ]
+  },
+  "/product/onyx-double-zip-backpack/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Onyx Double-Zip Backpack | Rovakivo",
+   "description": [
+    "Sleek black backpack with twin zips, a zipped front pocket and contrast stitching. Polished for the office, relaxed for the weekend."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/product/onyx-double-zip-backpack/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2026/11/backpack-22-scaled.jpg"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "Onyx Double-Zip Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 71,
+   "noAlt": []
+  },
+  "/product/red-roll-top-backpack/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Red Roll-Top Backpack | Rovakivo",
+   "description": [
+    "Bright red roll-top style backpack with a grey centre strap and a round tan clasp. A bold bag for everyday use and time outdoors."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/product/red-roll-top-backpack/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2020/03/backpack-7.jpg"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "Red Roll-Top Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 72,
+   "noAlt": []
+  },
+  "/product/orange-trail-daypack/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "Orange Trail Daypack | Rovakivo",
+   "description": [
+    "Bright orange and grey daypack with cord lacing across the front and mesh side pockets. Made for day hikes and weekends outdoors."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/product/orange-trail-daypack/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2026/11/backpack-25-scaled.jpg"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "Orange Trail Daypack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 72,
+   "noAlt": []
+  },
+  "/product/white-printed-flap-backpack/": {
+   "status": 200,
+   "type": "text/html",
+   "title": "White Printed Flap Backpack | Rovakivo",
+   "description": [
+    "White backpack with an all-over black illustrated print, tan straps and orange trim. A playful bag for holidays, city trips and weekends."
+   ],
+   "robots": [
+    "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+   ],
+   "canonical": [
+    "http://7bar.local/product/white-printed-flap-backpack/"
+   ],
+   "ogImage": [
+    "http://7bar.local/wp-content/uploads/2020/03/backpack-29.webp"
+   ],
+   "ogDesc": 1,
+   "h1": [
+    "White Printed Flap Backpack"
+   ],
+   "jsonld": [
+    "WebPage,ImageObject,BreadcrumbList,WebSite,Organization",
+    "Product"
+   ],
+   "absLocalLinks": 72,
+   "noAlt": []
+  },
+  "/shop/page/1/": {
+   "status": 301,
+   "location": "http://7bar.local/shop/",
+   "type": "text/html",
+   "title": null,
+   "description": null,
+   "robots": null,
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [],
+   "jsonld": [],
+   "absLocalLinks": 0,
+   "noAlt": []
+  },
+  "/product-category/casual/?on_sale=1&": {
+   "status": 301,
+   "location": "http://7bar.local/product-category/casual/?on_sale=1",
+   "type": "text/html",
+   "title": null,
+   "description": null,
+   "robots": null,
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [],
+   "jsonld": [],
+   "absLocalLinks": 0,
+   "noAlt": []
+  },
+  "/product-category/travel/?on_sale=1&": {
+   "status": 301,
+   "location": "http://7bar.local/product-category/travel/?on_sale=1",
+   "type": "text/html",
+   "title": null,
+   "description": null,
+   "robots": null,
+   "canonical": [],
+   "ogImage": null,
+   "ogDesc": 0,
+   "h1": [],
+   "jsonld": [],
+   "absLocalLinks": 0,
+   "noAlt": []
+  }
+ },
+ "brokenImages": {},
+ "imagesChecked": 258,
+ "external": {},
+ "scripts": [
+  "/wp-admin/js/password-strength-meter.min.js",
+  "/wp-content/plugins/7bar-homepage/assets/js/motion.js",
+  "/wp-content/plugins/7bar-homepage/assets/js/site.js",
+  "/wp-content/plugins/7bar-homepage/assets/vendor/ScrollTrigger.min.js",
+  "/wp-content/plugins/7bar-homepage/assets/vendor/gsap.min.js",
+  "/wp-content/plugins/7bar-homepage/assets/vendor/lenis.min.js",
+  "/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js",
+  "/wp-content/plugins/woocommerce/assets/js/frontend/account-i18n.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js",
+  "/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js",
+  "/wp-content/plugins/wpforms-lite/assets/js/frontend/analytics.min.js",
+  "/wp-content/plugins/wpforms-lite/assets/js/frontend/fields/address.min.js",
+  "/wp-content/plugins/wpforms-lite/assets/js/frontend/mailcheck-tlds.min.js",
+  "/wp-content/plugins/wpforms-lite/assets/js/frontend/wpforms-modern.min.js",
+  "/wp-content/plugins/wpforms-lite/assets/js/frontend/wpforms.min.js",
+  "/wp-content/plugins/wpforms-lite/assets/js/share/utils.min.js",
+  "/wp-content/plugins/wpforms-lite/assets/lib/jquery.validate.min.js",
+  "/wp-content/plugins/wpforms-lite/assets/lib/mailcheck.min.js",
+  "/wp-content/plugins/wpforms-lite/assets/lib/punycode.min.js",
+  "/wp-includes/js/dist/hooks.min.js",
+  "/wp-includes/js/dist/i18n.min.js",
+  "/wp-includes/js/jquery/jquery-migrate.min.js",
+  "/wp-includes/js/jquery/jquery.min.js",
+  "/wp-includes/js/underscore.min.js",
+  "/wp-includes/js/wp-util.min.js",
+  "/wp-includes/js/zxcvbn-async.min.js"
+ ]
+}

@@ -1,0 +1,328 @@
+{
+ "overflow": [
+  {
+   "w": 320,
+   "key": "notfound",
+   "over": 2,
+   "culprits": [
+    "p.bar7-404__code r=322",
+    "div. r=322",
+    "p.bar7-eyebrow r=322",
+    "h1.bar7-h1 r=322"
+   ],
+   "h1": 1
+  }
+ ],
+ "fold": {
+  "home": {
+   "320": "461/568 fold",
+   "375": "406/812 fold",
+   "390": "412/844 fold",
+   "768": "475/1024 fold",
+   "1024": "478/768 fold",
+   "1440": "554/900 fold",
+   "1920": "557/1080 fold"
+  },
+  "shop": {
+   "320": "698/568 below",
+   "375": "519/812 below",
+   "390": "482/844 below",
+   "768": "486/1024 below",
+   "1024": "495/768 below",
+   "1440": "527/900 below",
+   "1920": "527/1080 below"
+  },
+  "category": {
+   "320": "751/568 below",
+   "375": "680/812 below",
+   "390": "655/844 below",
+   "768": "576/1024 below",
+   "1024": "560/768 below",
+   "1440": "590/900 below",
+   "1920": "590/1080 below"
+  },
+  "product": {
+   "320": "963/568 below",
+   "375": "1004/812 below",
+   "390": "1024/844 below",
+   "768": "1494/1024 below",
+   "1024": "520/768 fold",
+   "1440": "533/900 fold",
+   "1920": "534/1080 fold"
+  },
+  "variable": {
+   "320": "1070/568 below",
+   "375": "1086/812 below",
+   "390": "1106/844 below",
+   "768": "1575/1024 below",
+   "1024": "501/768 fold",
+   "1440": "514/900 fold",
+   "1920": "515/1080 fold"
+  },
+  "cart": {
+   "320": "1453/568 below",
+   "375": "1453/812 below",
+   "390": "1453/844 below",
+   "768": "1363/1024 below",
+   "1024": "1014/768 below",
+   "1440": "731/900 fold",
+   "1920": "731/1080 fold"
+  },
+  "checkout": {
+   "320": "423/568 fold",
+   "375": "423/812 fold",
+   "390": "398/844 fold",
+   "768": "441/1024 fold",
+   "1024": "450/768 fold",
+   "1440": "465/900 fold",
+   "1920": "465/1080 fold"
+  },
+  "account": {
+   "320": "h1=1",
+   "375": "h1=1",
+   "390": "h1=1",
+   "768": "h1=1",
+   "1024": "h1=1",
+   "1440": "h1=1",
+   "1920": "h1=1"
+  },
+  "about": {
+   "320": "h1=1",
+   "375": "h1=1",
+   "390": "h1=1",
+   "768": "h1=1",
+   "1024": "h1=1",
+   "1440": "h1=1",
+   "1920": "h1=1"
+  },
+  "contact": {
+   "320": "h1=1",
+   "375": "h1=1",
+   "390": "h1=1",
+   "768": "h1=1",
+   "1024": "h1=1",
+   "1440": "h1=1",
+   "1920": "h1=1"
+  },
+  "privacy": {
+   "320": "h1=1",
+   "375": "h1=1",
+   "390": "h1=1",
+   "768": "h1=1",
+   "1024": "h1=1",
+   "1440": "h1=1",
+   "1920": "h1=1"
+  },
+  "search": {
+   "320": "h1=1",
+   "375": "h1=1",
+   "390": "h1=1",
+   "768": "h1=1",
+   "1024": "h1=1",
+   "1440": "h1=1",
+   "1920": "h1=1"
+  },
+  "notfound": {
+   "320": "h1=1",
+   "375": "h1=1",
+   "390": "h1=1",
+   "768": "h1=1",
+   "1024": "h1=1",
+   "1440": "h1=1",
+   "1920": "h1=1"
+  }
+ },
+ "images": {
+  "home": {
+   "total": 17,
+   "noAlt": [],
+   "emptyAltNonDecor": [
+    "product-aturna.webp"
+   ],
+   "noDims": [],
+   "broken": [],
+   "oversized": []
+  },
+  "shop": {
+   "total": 16,
+   "noAlt": [],
+   "emptyAltNonDecor": [
+    "product-aturna.webp"
+   ],
+   "noDims": [],
+   "broken": [],
+   "oversized": []
+  },
+  "category": {
+   "total": 10,
+   "noAlt": [],
+   "emptyAltNonDecor": [
+    "product-aturna.webp"
+   ],
+   "noDims": [],
+   "broken": [],
+   "oversized": []
+  },
+  "product": {
+   "total": 9,
+   "noAlt": [],
+   "emptyAltNonDecor": [
+    "product-aturna.webp"
+   ],
+   "noDims": [],
+   "broken": [],
+   "oversized": []
+  },
+  "variable": {
+   "total": 13,
+   "noAlt": [],
+   "emptyAltNonDecor": [
+    "product-aturna.webp"
+   ],
+   "noDims": [],
+   "broken": [],
+   "oversized": []
+  },
+  "cart": {
+   "total": 4,
+   "noAlt": [],
+   "emptyAltNonDecor": [
+    "product-aturna.webp"
+   ],
+   "noDims": [],
+   "broken": [],
+   "oversized": []
+  },
+  "checkout": {
+   "total": 3,
+   "noAlt": [],
+   "emptyAltNonDecor": [],
+   "noDims": [],
+   "broken": [],
+   "oversized": []
+  },
+  "account": {
+   "total": 4,
+   "noAlt": [],
+   "emptyAltNonDecor": [
+    "product-aturna.webp"
+   ],
+   "noDims": [],
+   "broken": [],
+   "oversized": []
+  },
+  "about": {
+   "total": 7,
+   "noAlt": [],
+   "emptyAltNonDecor": [
+    "product-aturna.webp"
+   ],
+   "noDims": [],
+   "broken": [],
+   "oversized": []
+  },
+  "contact": {
+   "total": 5,
+   "noAlt": [],
+   "emptyAltNonDecor": [
+    "product-aturna.webp"
+   ],
+   "noDims": [],
+   "broken": [],
+   "oversized": []
+  },
+  "privacy": {
+   "total": 4,
+   "noAlt": [],
+   "emptyAltNonDecor": [
+    "product-aturna.webp"
+   ],
+   "noDims": [],
+   "broken": [],
+   "oversized": []
+  },
+  "search": {
+   "total": 4,
+   "noAlt": [],
+   "emptyAltNonDecor": [
+    "product-aturna.webp"
+   ],
+   "noDims": [],
+   "broken": [],
+   "oversized": []
+  },
+  "notfound": {
+   "total": 4,
+   "noAlt": [],
+   "emptyAltNonDecor": [
+    "product-aturna.webp"
+   ],
+   "noDims": [],
+   "broken": [],
+   "oversized": []
+  }
+ },
+ "errors": [
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 404 (Not Found) http://7bar.local/no-such-page-audit/",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 404 (Not Found) http://7bar.local/no-such-page-audit/",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 404 (Not Found) http://7bar.local/no-such-page-audit/",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 404 (Not Found) http://7bar.local/no-such-page-audit/",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 404 (Not Found) http://7bar.local/no-such-page-audit/",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 404 (Not Found) http://7bar.local/no-such-page-audit/",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 500 (Internal Server Error) http://7bar.local/?wc-ajax=ppc-sdk-v6-client-token",
+  "[PPCP SDK v6] Error: Failed to generate client token.\n    at http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:4483\n    at Generator.<anonymous> (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:2296)\n    at Generator.next (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3126)\n    at a (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3306)\n    at u (http://7bar.local/wp-content/plugins/woocommerce-paypal-payments/assets/ppcp-sdk-v6-js-boot.js?ver=9ecb1696a9718a453c76:1:3508)",
+  "Failed to load resource: the server responded with a status of 404 (Not Found) http://7bar.local/no-such-page-audit/"
+ ]
+}
