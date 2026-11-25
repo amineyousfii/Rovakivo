@@ -53,17 +53,40 @@ git commit -m "Initial commit: Rovakivo storefront plugin, page sources, tools a
 Saves the staged files as a new version, with a message saying what changed.
 
 ```powershell
-git remote add origin https://github.com/YOUR-USERNAME/rovakivo.git
+git add .gitattributes
+git add --renormalize .
+git commit -m "Keep LF line endings in all text files (.gitattributes)"
 ```
-Tells Git where the online copy lives. `origin` is the usual name for it. The private repository was first
-created on github.com (**New repository** → name → **Private** → no README).
+A second commit: `.gitattributes` keeps Linux-style line endings (LF), which is what web servers use.
+`--renormalize` re-checks every file against that rule.
+
+```powershell
+git log --oneline
+```
+Shows the history, one line per commit (newest first).
+
+**The online repository** was created on github.com: **New repository** → name `Rovakivo` → **Private** →
+no README, .gitignore or license (the folder already had them).
+
+```powershell
+git remote add origin https://github.com/amineyousfii/Rovakivo.git
+git remote -v
+```
+Tells Git where the online copy lives. `origin` is the usual name for it. `git remote -v` shows the address.
 
 ```powershell
 git push -u origin main
 ```
-Uploads your commits to GitHub. `-u` remembers `origin main`, so next time a plain `git push` is enough.
-The first push opened a browser window to sign in to GitHub (Git Credential Manager). After that, Windows
-remembers the sign-in.
+Uploads your commits to GitHub. `-u` links your `main` to GitHub's `main`, so from now on a plain `git push`
+(upload) and `git pull` (download) are enough. If GitHub asks you to sign in, a browser window opens (Git
+Credential Manager), and Windows remembers the sign-in afterwards.
+
+```powershell
+git status -sb
+git ls-remote origin main
+```
+`git status -sb` shows `## main...origin/main` when your laptop and GitHub match. If it says `[ahead 1]`, you
+have a commit that isn't on GitHub yet, so run `git push`. `git ls-remote` asks GitHub which commit it has.
 
 ---
 
