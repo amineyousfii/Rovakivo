@@ -15,5 +15,3 @@ This repository holds **our own work only**:
 **Not in the repository** (see `.gitignore`): WordPress itself, third-party plugins and themes, uploaded images,
 the database, backups, logs, screenshots and `wp-config.php`. Those are backed up separately (host backups and
 database exports), never on GitHub.
-
-New to Git? See [GIT-GUIDE.md](GIT-GUIDE.md).
